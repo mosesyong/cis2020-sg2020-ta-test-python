@@ -1,7 +1,7 @@
 import logging
 import json
 
-from flask import request, jsonify;
+from flask import request, jsonify, Response;
 
 from codeitsuisse import app;
 
@@ -16,7 +16,7 @@ def evaluateIf2():
         newValue = reorderSequence(value.get("geneSequence"))
         value["geneSequence"] = newValue
     logging.info("My result :{}".format(data))
-    return json.dumps(data);
+    return Response(json.dumps(data), mimetype='application/json');
 
 
 
