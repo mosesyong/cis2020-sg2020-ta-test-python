@@ -45,16 +45,16 @@ def reorderSequence(sequence):
 
     # print(countA, countC, countG, countT)
     newSequence = ""
+    while(countC > 0):
+        newSequence += "C"
+        countC -= 1
+
     while(countA > 0 and countC > 0 and countG > 0 and countT > 0):
         newSequence += "ACGT"
         countA -= 1
         countC -= 1
         countG -= 1
         countT -= 1
-
-    while(countC > 0):
-        newSequence += "C"
-        countC -= 1
 
     while(countA > 0 and countG > 0):
         newSequence += "AG"
