@@ -7,7 +7,7 @@ from codeitsuisse import app;
 
 logger = logging.getLogger(__name__)
 
-@app.route('/intelligent-farming-2', methods=['POST'])
+@app.route('/intelligent-farming-2', methods=['GET'])
 def evaluateIf2():
     data = request.get_json();
     logging.info("data sent for evaluation {}".format(data))
