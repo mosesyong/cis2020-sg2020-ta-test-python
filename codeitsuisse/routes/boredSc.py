@@ -30,7 +30,7 @@ def evaluateBoredScribe():
         jsonObject["encryptionCount"] = 1
         jsonObject["originalText"] = ' '.join(addSpace(selectedText))
     logging.info("data sent for evaluation {}".format(data))
-    return json.dumps(data);
+    return Response(json.dumps(data), mimetype='application/json');
 
 def unCaesar(encrypted_message, key):
     
