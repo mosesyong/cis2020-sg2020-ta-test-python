@@ -12,7 +12,7 @@ def evaluateBoredScribe():
     data = request.get_json();
     logging.info("data sent for evaluation {}".format(data))
     logging.info("My result :{}".format(data))
-    return json.dumps(result);
+    return json.dumps(data);
 
 
 
