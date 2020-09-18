@@ -14,7 +14,7 @@ wordSet = set(line.strip() for line in open('./codeitsuisse/routes/en.txt'))
 @app.route('/bored-scribe', methods=['POST'])
 def evaluateBoredScribe():
     data = request.get_json();
-    # logging.info("data sent for evaluation {}".format(data))
+    logging.info("data sent for evaluation {}".format(data))
     for jsonObject in data:
         encryptedText = jsonObject["encryptedText"]
         selectedText = ""
@@ -29,6 +29,7 @@ def evaluateBoredScribe():
         del jsonObject["encryptedText"]
         jsonObject["encryptionCount"] = 1
         jsonObject["originalText"] = ' '.join(addSpace(selectedText))
+    logging.info("data sent for evaluation {}".format(data))
     return json.dumps(data);
 
 def unCaesar(encrypted_message, key):
