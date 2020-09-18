@@ -25,8 +25,10 @@ def evaluateBoredScribe():
             if entropy < lowestEntropy:
                 selectedText = decryptedText
                 lowestEntropy = entropy
-        print(addSpace(selectedText))
-    # logging.info("My result :{}".format(data))
+        # print(addSpace(selectedText))
+        del jsonObject["encryptedText"]
+        jsonObject["encryptionCount"] = 1
+        jsonObject["originalText"] = ' '.join(addSpace(selectedText))
     return json.dumps(data);
 
 def unCaesar(encrypted_message, key):
