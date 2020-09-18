@@ -56,7 +56,7 @@ def addSpace(decryptedText):
         for i in range(len(decryptedText), -1, -1):
             isS = False
             splicedWord = decryptedText[0:i]
-            if decryptedText[i] == 's':
+            if splicedWord[-1] == 's':
                 isS = True
                 splicedWord = splicedWord[:-1]
             if splicedWord in wordSet:            
