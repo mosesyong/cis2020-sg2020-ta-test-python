@@ -8,7 +8,7 @@ from codeitsuisse import app
 logger = logging.getLogger(__name__)
 
 
-@app.route('/secret-message', methods=['POST'])
+@app.route('/encryption', methods=['POST'])
 def evaluate_secret_message():
     data = request.get_json()
     logging.info("data sent for evaluation {}".format(data))
