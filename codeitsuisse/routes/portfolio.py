@@ -1,5 +1,6 @@
 import logging
 import json
+import math
 
 from flask import request, jsonify, Response;
 
@@ -33,7 +34,7 @@ def hedgeFunc(portfolioInput):
         futureNotional = future["Notional"]
 
         optionalHedgeRatio = round(futureCoeff * (spotPriceVol/futureVol),3)
-        numContract = round(optionalHedgeRatio * portfolioValue/(futurePrice*futureNotional))
+        numContract = math.ceil(optionalHedgeRatio * portfolioValue/(futurePrice*futureNotional))
 
         futures.append((futureName, optionalHedgeRatio, numContract, futureVol))
 
