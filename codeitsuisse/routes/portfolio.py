@@ -36,7 +36,7 @@ def hedgeFunc(portfolioInput):
         optionalHedgeRatio = futureCoeff * (spotPriceVol/futureVol)
         numContract = round(optionalHedgeRatio * portfolioValue/(futurePrice*futureNotional))
 
-        futures.append((futureName, optionalHedgeRatio, numContract, futureVol))
+        futures.append((futureName, round(optionalHedgeRatio), numContract, futureVol))
 
     hedge = sorted(futures, key = lambda x: (x[1], x[3], x[2]))[0]
     result =  {
