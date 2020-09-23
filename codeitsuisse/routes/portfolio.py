@@ -33,8 +33,8 @@ def hedgeFunc(portfolioInput):
         futurePrice = future["IndexFuturePrice"]
         futureNotional = future["Notional"]
 
-        optionalHedgeRatio = round(futureCoeff * (spotPriceVol/futureVol),3)
-        numContract = math.ceil(optionalHedgeRatio * portfolioValue/(futurePrice*futureNotional))
+        optionalHedgeRatio = futureCoeff * (spotPriceVol/futureVol)
+        numContract = round(optionalHedgeRatio * portfolioValue/(futurePrice*futureNotional))
 
         futures.append((futureName, optionalHedgeRatio, numContract, futureVol))
 
