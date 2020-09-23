@@ -28,7 +28,7 @@ def encoder(n, text):
 
     text = text.replace(' ', '')
     text = text.upper()
-    ch_list = [ch for ch in text if ch.isalpha()]
+    ch_list = [ch for ch in text if ch.isalnum()]
 
     # method creates the split strings
     start = 0

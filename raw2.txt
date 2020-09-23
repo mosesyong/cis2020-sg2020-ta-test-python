@@ -1,0 +1,4463 @@
+Credit Suisse GRI Content Index 2019
+
+GRI Content Index 2019
+
+Credit Suisse used the GRI Standards for sustainability reporting (core option) in the development of its corporate responsibility reporting. The GRI content index refers to information in the Corporate Responsibility Report 2019 (CRR), the Annual Report 2019 (AR) and the Credit Suisse website ( ). Indicators that have been externally verified by the certification company SGS are marked with an asterisk.
+
+Legend
+
+AR
+
+Annual Report
+
+CRR
+
+Corporate Responsibility Report
+
+credit-suisse.com
+
+*
+
+Indicator externally verified by SGS
+
+Fully reported
+
+Partially reported
+
+
+
+Not reported (omission)
+
+GENERAL DISCLOSURES
+
+GRI 102
+
+SRS
+
+Disclosure
+
+Source
+
+Scope
+
+Organizational profile
+
+102-1
+
+Name of the organization
+
+AR 2019: Front cover
+
+Our Company (Internet)
+
+102-2
+
+Activities, brands, products, and services
+
+Credit Suisse at a glance:
+
+AR 2019: p. 12
+
+Divisions:
+
+AR 2019: pp. 18–25
+
+Products and services:
+
+AR 2019: pp. 15–17
+
+Our Businesses (Internet)
+
+102-3
+
+Location of headquarters
+
+Corporate Governance:
+
+AR 2019: p. 178
+
+Main offices:
+
+AR 2019: A-12
+
+102-4
+
+Location of operations
+
+Organizational structure:
+
+AR 2019: p. 15
+
+Divisions:
+
+AR 2019: pp. 18–25
+
+Main offices:
+
+AR 2019: A-12
+
+Our Company (Internet)
+
+102-5
+
+Ownership and legal form
+
+Corporate Governance:
+
+AR 2019: p. 178
+
+Articles of Association (PDF)
+
+102-6
+
+Markets
+
+served
+
+See GRI Indicators 102-2 and 102-4
+
+For additional details, please refer to:
+
+Divisions:
+
+AR 2019: pp. 18–25
+
+102-7
+
+Scale of the organization
+
+Results summary:
+
+AR 2019: p. 58
+
+Divisions:
+
+AR 2019: pp. 18–25
+
+Organizational structure:
+
+AR 2019: p. 15
+
+Number of employees:
+
+AR 2019: p. 62
+
+Our Company (Internet)
+
+1 102-8*
+
+Information on employees and other workers
+
+As of the end of 2019, Credit Suisse had 47,860 employees (full-time equivalents; whereof around 16,140 in Switzerland and 31,720 in all other regions). In 2019, 10.3% (2018=10.5%) of Credit Suisse employees worked part-time (18.9% of all female employees and 4.7% of all male employees).
+
+Credit Suisse does not report on employment types, due to bank-specific regulatory limitations and internal guidelines.
+
+Employee relations:
+
+AR 2019: p. 181
+
+Employee facts and figures:
+
+CRR 2019: p. 46
+
+Responsibility as an employer:
+
+Employer (Internet)
+
+CRR 2019: pp. 44-50
+
+102-9
+
+Supply chain
+
+Supplier Code of Conduct and Third Party Risk Management (TPRM):
+
+An integral part of the economy and society:
+
+CRR 2019: pp. 30-31
+
+Suppliers (Internet)
+
+Supplier Code of Conduct (PDF)
+
+CRR 2019: p. 22
+
+102-10
+
+Significant changes to the organization and its supply chain
+
+Credit Suisse strategy:
+
+AR 2019: pp. 13–15
+
+Evolution of legal entity structure:
+
+AR 2019: p. 15
+
+Trust and expertise:
+
+CRR 2019: pp. 12–16
+
+102-11*
+
+Precautionary Principle or approach
+
+Our commitment to sustainability and to the consideration of environmental and social issues in our business activities is embedded in the Code of Conduct. In addition, our Statement on Sustainability defines the objectives and principles underpinning our approach with regard to environmental and social issues in our business activities. It refers to international agreements that Credit Suisse has voluntarily pledged to uphold, such as the UN Global Compact with its Ten Principles in the areas of human rights, labor standards, environmental protection and anti-corruption efforts. The responsibilities and processes for implementing sustainability issues within the bank are defined within our internal Sustainability Management Policy.
+
+Credit Suisse strives to make more efficient use of natural resources and to reduce greenhouse gas emissions. We focus our efforts on energy management because energy consumption is among the areas in which our operations have the greatest direct impact on the environment. In order to reduce environmental impacts and lower costs, we continuously implement a variety of measures through our Environmental Management System (EMS), which has been implemented in accordance with the ISO 14001:2015 standard. In 2019, we successfully completed an EMS surveillance audit carried out by SGS, without any Corrective Action Requests (CARs). We also involve external service providers and suppliers in our continuous efforts to improve our environmental management measures where appropriate. Furthermore, Credit Suisse has been greenhouse gas neutral globally since 2010.
+
+In our banking businesses, environmental and social aspects are considered when managing transaction-related risks. To assess environmental and social risks, our internal specialist unit, Sustainability Affairs, evaluates whether the client’s activities are consistent with the relevant industry standards and whether the potential transaction is compatible with Credit Suisse’s policies and guidelines for sensitive sectors. Based on the outcome of this analysis, Sustainability Affairs submits its assessment to the responsible business unit and/or enters it into the Reputational Risk Review system for evaluation by a Reputational Risk Approver, who is a senior manager independent from the area of business in question, or by the respective Reputational Risk Committee. They have the authority to approve, reject or impose conditions on our participation in a transaction or the establishment of a client relationship. In cases of particularly complex or cross-divisional transactions, the decision may be referred to the Position & Client Risk (PCR) cycle of the Capital Allocation & Risk Management Committee (CARMC), which assumed the responsibilities of the former Reputational Risk Sustainability Committee (RRSC) beginning in 2020. Alternatively, it may be escalated to the Global Reputational Risk function. The PCR cycle of CARMC, chaired by the Group’s Chief Risk Officer, is the most senior governing body responsible for the oversight and active discussion of reputational risks and sustainability issues (including climate change). The Risk Committee and Audit Committee jointly assist the Board in fulfilling its reputational risk oversight responsibilities by reviewing and approving the Group’s risk appetite framework as well as assessing the adequacy of the management of reputational risks.
+
+Certain industries are particularly sensitive from a social or environmental perspective. To assess potential transactions with clients in these industries, we have defined specific policies and guidelines that are globally applicable, taking account of standards developed by international organizations such as the UN and the World Bank.
+
+Sustainability Commitments (Internet)
+
+Responsibility for the environment:
+
+CRR 2019: pp. 54–60
+
+Environmental Management (Internet)
+
+Greenhouse Gas Neutrality (Internet)
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Risk Management and Sustainability (Internet)
+
+102-12*
+
+External initiatives
+
+Credit Suisse is a signatory to several international agreements, and is committed to integrating their standards into its corporate policy. These include, among others: the UN Global Compact, the United Nations Environment Programme Finance Initiative (UNEP FI) and the Roundtable on Sustainable Palm Oil (RSPO). Furthermore, Credit Suisse is a signatory to the UN Principles for Responsible Investments (PRI) and the UN Principles for Responsible Banking (PRB).
+
+In the context of sustainability risk management, Credit Suisse has applied the Equator Principles (EP) since 2003. This framework for the management of environmental and social risks is based on standards defined by the International Finance Corporation (IFC) and is applied by around 100 financial institutions for specific types of finance for industrial and infrastructure projects. The Equator Principles were updated in 2019, following an EP Association process involving extensive dialogue with a wide variety of stakeholders – including the EP Financial Institutions (EPFIs), EPFI clients, industry bodies and nongovernmental organizations (NGOs). As a result, the Equator Principles’ scope of application has been expanded to capture more project-related transactions. Amendments and new commitments have also been made with regard to human rights, climate change, indigenous peoples and biodiversity.
+
+2 Credit Suisse played an active role in the update process and was involved in the management of the Equator Principles Association.
+
+Credit Suisse publicly expressed its support for the recommendations of the Financial Stability Board’s Task Force on Climate-related Financial Disclosures (TCFD). Within the regulatory framework established by the Paris Agreement, we expect our TCFD adoption efforts to provide us with further guidance for the transition toward a world that is progressively less dependent on fossil fuels. Credit Suisse continued its TCFD implementation efforts in 2019, following the four TCFD categories of Governance, Strategy, Risk Management, and Metrics and Targets.
+
+Credit Suisse contributes to the realization of the United Nations’ Sustainable Development Goals (SDGs) in various ways, including in our role as a financial intermediary and employer. Further examples of how we aim to support the realization of the SDGs include our sustainable, impact and SDG-oriented thematic investment products and services as well as our global initiatives in education and financial inclusion. At the same time, our focus on sustainability risk management can help us to reduce potential negative impacts that certain business activities might have on the realization of the SDGs.
+
+Implementation of the Ten Principles of the UN Global Compact:
+
+Sustainability networks and initiatives:
+
+CRR 2019: p. 64
+
+Agreements and Memberships (Internet)
+
+CRR 2019: p.62
+
+Implementing the recommendations of the Task Force on Climate-related Financial Disclosures:
+
+Our contribution to the realization of the Sustainable Development Goals:
+
+CRR 2019: p. 59
+
+Credit Suisse and the SDGs (Internet)
+
+CRR 2019: p. 21
+
+102-13*
+
+Membership of associations
+
+Credit Suisse considers it important to engage in discussions with various stakeholders – from clients, employees and investors to policymakers, legislators, regulators and representatives of the business community and society – in order to understand the issues that are important to them and to help find constructive solutions to current challenges. This exchange of views and ideas has grown increasingly important in recent years in view of international developments and discussions surrounding the role of the finance industry in the global economy. Reflecting our commitment to dialogue, we are a member of a number of industry associations, umbrella organizations and think-tanks where we discuss topics such as financial market regulation and sustainable finance policy, among other things.
+
+In addition, Credit Suisse actively participates in a number of sustainability networks and initiatives worldwide. These include, among others: the UNEP FI and the UN Global Compact.
+
+Maintaining a constructive dialogue:
+
+CRR 2019: p. 31
+
+Sustainability networks and initiatives:
+
+Our Network (Internet)
+
+CRR 2019: p. 64
+
+Strategy
+
+102-14
+
+Statement from senior decisionmaker
+
+Foreword:
+
+CRR 2019: pp. 4–5
+
+102-15
+
+Key impacts, risks, and opportunities
+
+In terms of Corporate Responsibility, our main responsibility is to ensure that we run our company successfully on a long-term basis for the benefit of our clients, shareholders, employees and society as a whole. We believe competence, client focus, compliance, diligence and responsible conduct are key to the success of our business. This includes taking account of social and environmental aspects when conducting our activities.
+
+Our understanding of Corporate Responsibility:
+
+Approach & Reporting (Internet)
+
+CRR 2019: pp. 6–9
+
+Ethics and integrity
+
+102-16*
+
+Values, principles, standards, and norms of behavior
+
+Recognizing the critical role of employees in helping to preserve financial integrity, we aim for the highest standards of personal accountability and ethical conduct from each member of our workforce. Credit Suisse employees at all levels of the organization, as well as the members of the Board of Directors, are obligated to adhere to our Code of Conduct.
+
+Since the launch of our six Conduct and Ethics (C&E) Standards in 2017, Credit Suisse has focused on confirming that the C&E Standards are firmly embedded in our processes throughout the bank. The six C&E Standards – Client Focus, Meritocracy, Stakeholder Management, Accountability, Partner and Transparency – set the values and conduct expectations for employees. C&E is a core part of everything we do – from recruitment to performance management and our disciplinary process. Through comprehensive, top-down, consistent communications, we have sought to create awareness across the bank regarding C&E.
+
+Managing sustainability and reputational issues has become increasingly important, as many companies face growing economic, environmental and societal challenges. Our Statement on Sustainability defines the objectives and principles underpinning our approach to environmental and social issues in our business activities. It refers to international agreements that Credit Suisse has voluntarily pledged to uphold, such as the UN Global Compact with its Ten Principles in the areas of human rights, labor standards, environmental protection and anti-corruption efforts (see indicators 102-12 and 102-13). In addition to these existing commitments, we introduced a Group-wide Climate Risk Strategy program in 2019.
+
+Code of Conduct and Conduct and Ethics Standards:
+
+Code of Conduct (Internet)
+
+Statement on Sustainability (Internet)
+
+Sustainability Commitments (Internet)
+
+CRR 2019: pp. 15-16
+
+Governance
+
+102-18
+
+Governance structure
+
+Board of Directors/Board Committees:
+
+AR 2019: pp. 188–209
+
+Corporate Governance:
+
+AR 2019: p. 178
+
+102-20*
+
+Appointed body accountable for
+
+Based on Credit Suisse’s Statement on Sustainability, the CEO is the most senior manager having decision-making authority on sustainability matters and is supported in this by the Position & Client Risk (PCR) cycle of the Capital
+
+3 economic, environmental and social topics
+
+Allocation & Risk Management Committee (CARMC), which assumed the responsibilities of the former Reputational Risk Sustainability Committee (RRSC) beginning in 2020. The PCR cycle of CARMC, chaired by the Group’s Chief Risk Officer, is the most senior governing body responsible for the oversight and active discussion of reputational risks and sustainability issues (including climate change). The Risk Committee and Audit Committee jointly assist the Board in fulfilling its reputational risk oversight responsibilities by reviewing and approving the Group’s risk appetite framework as well as assessing the adequacy of the management of reputational risks.
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Risk Management and Sustainability (Internet)
+
+Statement on Sustainability (Internet)
+
+102-29*
+
+Identifying and
+
+managing
+
+economic,
+
+environmental and
+
+social impacts
+
+Credit Suisse employees at all levels of the organization, as well as the members of the Board of Directors, are
+
+obligated to adhere to our Code of Conduct. To ensure we are continuously informed of the latest regulations and
+
+industry standards, our employees are required to participate in an annual targeted and tailored training curriculum. It
+
+includes, but is not limited to, developments in the finance industry and internal best practices for continued compliant
+
+growth.
+
+The CEO is the most senior manager having decision-making authority on sustainability matters and is supported in
+
+this by the PCR cycle of the CARMC, which assumed the responsibilities of the former RRSC beginning in 2020. The
+
+PCR cycle of CARMC, chaired by the Group’s Chief Risk Officer, is the most senior governing body responsible for the
+
+oversight and active discussion of reputational risks and sustainability issues (including climate change). The Risk
+
+Committee and Audit Committee jointly assist the Board in fulfilling its reputational risk oversight responsibilities by
+
+reviewing and approving the Group’s risk appetite framework as well as assessing the adequacy of the management of
+
+reputational risks.
+
+In line with the GRI Standards, Credit Suisse regularly conducts a materiality assessment in order to better understand
+
+the views and interests of our stakeholders. We believe doing so will help us to identify new trends, evolve our strategy
+
+accordingly, as well as tailor our reporting to align it with the interests and needs of our business and our stakeholders.
+
+Code of Conduct (Internet)
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Credit Suisse materiality assessment:
+
+CRR 2019: pp.
+
+7-8
+
+Statement on Sustainability (Internet)
+
+102-31*
+
+Review of economic, environmental and social topics
+
+During 2019, the Reputational Risk Sustainability Committee met quarterly to monitor, among other things, compliance with internal sustainability policies and guidelines, as well as international sustainability commitments to which the bank has voluntarily signed up. In 2020, the PCR cycle of the CARMC assumed the responsibilities of the former RRSC. According to the Terms of Reference of the PCR cylce of CARMC, sustainability updates will be provided every quarter.
+
+Risk Management and Sustainability (Internet)
+
+Sustainability Commitments (Internet)
+
+Stakeholder engagement
+
+102-40
+
+List of stakeholder groups
+
+Our business works on the basis of trust: Our long-term success depends to a significant extent on our ability to inspire confidence in our stakeholders. In the current challenging regulatory environment and in view of the developments in the area of financial market policy, it is essential that we take steps to safeguard and maintain trust in our company. We therefore regularly engage in dialogue with clients, shareholders, investors and employees as well as regulators and policymakers, NGOs and other stakeholders. This dialogue – combined with the insights we gain through our participation in initiatives, industry associations and forums, as well as the findings of surveys strengthens our understanding of the different, and sometimes conflicting, perspectives of our stakeholders. This helps us to identify their interests and expectations at an early stage, to offer our own perspective and to contribute to the development of solutions in response to current challenges wherever possible. At the same time, this exchange allows us to further develop our understanding of our corporate responsibilities. Further information about our engagement with stakeholders, as well as our range of publications that are designed to contribute to the public debate, are available online:
+
+Engaging with stakeholders:
+
+CRR 2019: p. 9
+
+Engaging with our Stakeholders (Internet)
+
+102-41
+
+Collective bargaining agreements
+
+Engaging with stakeholders:
+
+CRR 2019: p. 9
+
+Attractive working environment and flexible working:
+
+Employee Representation (Internet)
+
+CRR 2019: pp. 48-49
+
+102-42
+
+Identifying and selecting stakeholders
+
+Credit Suisse has identified several key stakeholder groups within the categories of market, society, workplace and environment. Market stakeholder groups consist of clients, shareholders, investors and analysts. Workplace stakeholders consist of employees, trade unions and suppliers. With respect to its role in society, Credit Suisse has identified policymakers, regulators and media as stakeholder groups. Finally, with respect to the environment, stakeholders consist of NGOs and intergovernmental organizations and local communities. For each identified stakeholder group, various communication channels are used in an effort to engage in an open dialogue.
+
+Further details are outlined in the CRR 2019 and on our website. Please refer to:
+
+Engaging with stakeholders:
+
+CRR 2019: p. 9
+
+Engaging with our Stakeholders (Internet)
+
+102-43
+
+Approach to stakeholder engagement
+
+We therefore regularly engage in dialogue with clients, shareholders, investors and employees as well as regulators and policymakers, NGOs and other stakeholders. This dialogue – combined with the insights we gain through our participation in initiatives, industry associations and forums, as well as the findings of surveys – strengthens our understanding of the different, and sometimes conflicting, perspectives of our stakeholders. This helps us to identify their interests and expectations at an early stage, to offer our own perspective and to contribute to the development of solutions in response to current challenges wherever possible. At the same time, this exchange allows us to further develop our understanding of our corporate responsibilities.
+
+4 Our corporate responsibility reporting activities focus on topics that are relevant to our business and our stakeholders. We regularly undertake a materiality assessment in order to identify critical economic, environmental and social issues that may either have a significant impact on the company’s business performance or substantively influence the assessments and decisions of our stakeholders. We believe that this helps us recognize new trends and evolve our strategy accordingly as well as align our reporting with the interests and needs of our business and our stakeholders.
+
+The materiality assessment is based on our ongoing dialogue with stakeholders across all parts of our organization. We strive to ensure that the list of material issues identified in the past remains relevant and that important new topics are addressed. In 2019, we once again approached a large number and broad range of external and internal stakeholders in all regions where we operate. We reached out to these stakeholders and asked for their perspective through a structured survey, comprising both quantitative and qualitative elements. The results of this survey were subsequently combined with a dedicated media review and information from our monitoring tools. We also considered the views of internal experts who participate in an ongoing dialogue with relevant stakeholder groups. As part of the assessment, we analyzed the expected future importance of the material issues for our stakeholders to help us anticipate emerging business issues. Throughout this process, we took into account the perspectives of clients, investors and analysts, policymakers, NGOs, employees and other stakeholders. The 2019 materiality assessment is the result of this analysis and reflects average values of perceived importance.
+
+Credit Suisse materiality assessment:
+
+Materiality Assessment (Internet)
+
+CRR 2019: pp. 7-8
+
+Engaging with stakeholders:
+
+CRR 2019: p. 9
+
+Engaging with our Stakeholders (Internet)
+
+Our Network (Internet)
+
+102-44
+
+Key topics and concerns raised
+
+Examples of Credit Suisse’s stakeholder dialogue and engagement activities can be found in our CRR and online at:
+
+Credit Suisse materiality assessment:
+
+Materiality Assessment (Internet)
+
+CRR 2019: pp. 7-8
+
+Engaging with stakeholders:
+
+CRR 2019: p. 9
+
+Engaging with our Stakeholders (Internet)
+
+Reporting practices
+
+102-45
+
+Entities included in the consolidated financial statements
+
+Summary of significant accounting policies:
+
+AR 2019: pp. 268-276
+
+102-46
+
+Defining report content and topic Boundaries
+
+The 2019 Corporate Responsibility Report (CRR) covers activities of Credit Suisse globally. In line with the GRI Standards, we again conducted a materiality assessment in 2019 in order to better understand the views and interests of our stakeholders, identify key issues and report on them transparently. The CRR focuses on issues classified as particularly important in the context of the materiality assessment.
+
+Credit Suisse’s 2019 reporting documents on corporate responsibility reflect the GRI Standards for sustainability reporting (core option). As in previous years, selected indicators of our GRI-based disclosure on corporate responsibility have been externally assessed and independently assured by SGS. For additional details please refer to:
+
+Credit Suisse materiality assessment:
+
+Materiality Assessment (Internet)
+
+CRR 2019: pp. 7-8
+
+Reporting on Corporate Responsibility:
+
+CRR 2019: pp. 61–64
+
+External Assurance: SGS Assurance Statement for 2019 Reporting (PDF)
+
+102-47
+
+List of material topics
+
+Credit Suisse materiality assessment:
+
+Materiality Assessment (Internet)
+
+CRR 2019: pp. 7-8
+
+102-48
+
+Restatements of information
+
+None
+
+102-49
+
+Changes in reporting
+
+The materiality assessment is based on our ongoing dialogue with stakeholders across all parts of our organization. We strive to ensure that the list of material issues identified in the past remains relevant and that important new topics are addressed. In 2019, we once again approached a large number and broad range of external and internal stakeholders in all regions where we operate. We reached out to these stakeholders and asked for their perspective through a structured survey, comprising both quantitative and qualitative elements. The results of this survey were subsequently combined with a dedicated media review and information from our monitoring tools. We also considered the views of internal experts who participate in an ongoing dialogue with relevant stakeholder groups. As part of the assessment, we analyzed the expected future importance of the material issues for our stakeholders to help us anticipate emerging business issues. Throughout this process, we took into account the perspectives of clients, investors and analysts, policymakers, NGOs, employees and other stakeholders. The 2019 materiality assessment is the result of this analysis and reflects average values of perceived importance.
+
+Credit Suisse materiality assessment:
+
+Materiality Assessment (Internet)
+
+CRR 2019: pp. 7-8
+
+Reporting on Corporate Responsibility:
+
+CRR 2019: pp. 61–64
+
+102-50
+
+Reporting period
+
+The 2019 Corporate Responsibility Report was published in March 2020 and covers the reporting year 2019:
+
+CRR 2019: Front cover
+
+Scope of the report:
+
+CRR 2019: p. 61
+
+102-51
+
+Date of most recent previous report
+
+The 2018 Corporate Responsibility Report was published in March 2019 and covers the 2018 reporting year.
+
+CRR 2018
+
+102-52
+
+Reporting cycle
+
+Credit Suisse publishes its Corporate Responsibility Report annually, along with the Annual Report. Since 2018, Credit Suisse also annually publishes the publication Corporate Responsibility – At a Glance, a concise booklet that provides
+
+5 an overview of the most important processes and activities that reflect our approach to corporate responsibility in banking, in society, as an employer and for the environment.
+
+Annual Reporting (Internet)
+
+102-53
+
+Contact point for questions regarding the report
+
+We regard our reporting on corporate responsibility as an important basis for our dialogue with stakeholders and welcome any feedback about our activities:
+
+responsibility.corporate@credit-suisse.com
+
+102-54
+
+Claims of reporting in accordance with the GRI Standards
+
+GRI Sustainability Reporting Standards:
+
+GRI Content Index (Internet)
+
+CRR 2019: p. 61
+
+102-55
+
+GRI content index
+
+GRI Sustainability Reporting Standards:
+
+GRI Content Index (Internet)
+
+CRR 2019: p. 61
+
+External Assurance: SGS Assurance Statement for 2019 Reporting (PDF)
+
+102-56
+
+External assurance
+
+Selected indicators of our GRI-based disclosure on corporate responsibility 2019 are externally assessed and independently assured by SGS (see indicators marked with an asterisk).
+
+In addition, Credit Suisse’s Environmental Management System is certified by SGS according to ISO 14001.
+
+External Assurance: SGS Assurance Statement for 2019 Reporting (PDF)
+
+TOPIC-SPECIFIC STANDARDS
+
+GRI 200: ECONOMIC
+
+SRS
+
+Disclosure
+
+Source
+
+Scope
+
+GRI 201: Economic performance
+
+GRI 103: Management approach for economic performance
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+We strive to conduct our business responsibly and professionally – offering high-quality financial solutions and expert
+
+advice to our clients around the globe. We are also committed to operating a rigorous compliance and control culture
+
+to inspire trust in our bank.
+
+Message from the Chairman:
+
+AR 2019: pp. 4–7
+
+Interview with the Chairman and the Chief Executive Officer:
+
+AR 2019: pp. 8–10
+
+Credit Suisse strategy:
+
+AR 2019: pp. 13–15
+
+Results summary:
+
+AR 2019: p. 58
+
+Foreword:
+
+CRR 2019: pp. 4–5
+
+Responsibility in banking:
+
+CRR 2019: pp. 12–27
+
+Our role in the economy and society:
+
+CRR 2019: pp. 30–34
+
+201-1
+
+Direct economic value generated and distributed
+
+Consolidated financial statements – Credit Suisse Group:
+
+AR 2019: p. 261
+
+ASC Topic 230 – Statement of Cash Flows:
+
+AR 2019: p. 396
+
+Compensation and benefits:
+
+Tax:
+
+AR 2019: p.
+
+310
+
+Results by business activity:
+
+Assets under management:
+
+AR 2019: pp. 57-64
+
+AR 2019: p. 61
+
+AR 2019: p. 72
+
+Our role in the economy and society:
+
+Sponsorship (Internet)
+
+CRR 2019: pp. 30–34
+
+See GRI Indicators 102-2, 102-3, 201-4 for information on the markets, regions, and business divisions of Credit Suisse.
+
+201-2
+
+Financial implications and other risks and opportunities due to climate change
+
+Credit Suisse addresses the challenge of climate change at various levels. We take environmental and climate aspects into account in the areas of product development and risk management, and our operations have been greenhouse gas neutral globally since 2010.
+
+Credit Suisse recognizes its share of responsibility in addressing the challenges of climate change, and we acknowledge that financial flows also need to be brought in line with the objectives of the Paris Agreement. We believe that our role as a financial intermediary is to act as a reliable partner in the transition to a low-carbon and climateresilient economy. Our principles and our approach to climate protection are set out in our Statement on Climate Change, and we became a founding signatory to the Principles for Responsible Banking of the UN Environment Programme Finance Initiative (UNEP FI) in 2019. In the same year, we introduced a Group-wide Climate Risk Strategy program, integrating our existing efforts as well as defining new measures.
+
+For details on Credit Suisse’s climate-related risks and opportunities as well as our greenhouse gas emissions see Credit Suisse CDP reporting ( ).
+
+www.cdp.net
+
+Climate-related risks / TCFD implementation:
+
+Trust and expertise:
+
+CRR 2019: pp. 12-16
+
+AR 2019: p. 157
+
+Risk management and sustainability:
+
+Climate change:
+
+CRR 2019: p. 60
+
+Climate Protection (Internet)
+
+Statement on Climate Change (PDF)
+
+CRR 2019: pp. 17–22
+
+Global greenhouse gas neutrality – our four-pillar strategy (Internet)
+
+6 201-3
+
+Defined benefit plan obligations and other retirement plans
+
+Pension plans:
+
+AR 2019: pp. 320-328
+
+GRI 203: Indirect economic impacts
+
+GRI 103: Management approach for indirect economic impacts
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+Credit Suisse strives to operate responsibly and efficiently to create value for its clients and shareholders .
+
+Credit Suisse also aims to make an important contribution to the function of the economy and to play a constructive
+
+role in society through our activities.
+
+Through our role as a financial intermediary, we support entrepreneurship and economic growth, and we make an
+
+economic contribution as an employer, taxpayer and contractual partner. We also support various humanitarian and
+
+charitable organizations and projects as well as cultural and sporting events.
+
+Our role in the economy and society:
+
+CRR 2019: pp. 30-34
+
+Our social commitments:
+
+CRR 2019: pp. 35–41
+
+203-1*
+
+Infrastructure investments and services supported
+
+In the area of financial inclusion, we structure investments that are designed to provide economically disadvantaged people – especially those in developing countries – with access to financial services. By providing these essential services, we believe that we can help unlock inclusive growth. We offer a number of products that address this – for example, our six higher education solutions are designed to provide funding to talented students from frontier markets to get loans for advanced education, the majority of whom have no alternative source of funding. Our activities in financial inclusion benefited around 1.5 million people in 2019.
+
+Our Financial Inclusion Initiative (FII) helps to drive market development and innovation in this sector. The initiative aims to strengthen the ability of financial services providers to serve the increasingly diverse financial needs of people at the base of the income pyramid. To this end, we support the development of new products and services focusing on themes such as education, agriculture and gender diversity. We also make the expertise of our employees available to our financial inclusion and impact and SDG-oriented thematic investing partners through several volunteering programs, and we invest in early-stage innovation and financial technology (fintech) through our partnership with Accion’s financial technology accelerator Venture Lab.
+
+Sustainable, thematic and impact investing products and services:
+
+Our social commitments:
+
+CRR 2019: pp. 35-39
+
+Global Citizens Program:
+
+CRR 2019: p. 36
+
+Global Citizens Program (Internet)
+
+Financial inclusion:
+
+CRR 2019: p. 37
+
+Financial Inclusion (Internet)
+
+CRR 2019: pp.
+
+23-27
+
+Financial Education Initiative – selected figures 2014–2019:
+
+Global Education Initiative (Internet)
+
+CRR 2019: p. 35
+
+203-2*
+
+Significant indirect economic impacts
+
+Since 2014, Credit Suisse has promoted financial education and life skills programs for girls through our Financial Education Initiative. Partners in our global Financial Education for Girls signature program are Aflatoun International, Plan International and Room to Read. As a global financial institution, we see first-hand the importance of financial skills in allowing people to actively participate in the economy and society. The Financial Education for Girls program aims to increase the financial knowledge of girls and to raise awareness of their social and economic rights – thus helping them to build a better future for themselves. The program is working to improve the financial education and life skills of over 100,000 adolescent girls in Brazil, China, India, Rwanda, Sri Lanka and Tanzania by 2021, and it is aligned with both the Financial Inclusion Initiative and our Future Skills program as well as Credit Suisse’s core business. From 2014 to 2019, 1,547 schools have benefited from our support, 3,760 teachers have been trained and 127,900 adolescent girls worldwide have benefited from financial education and life skills classes.
+
+Credit Suisse has been a leader in the field of financial inclusion and microfinance since 2004, pioneering new funds and products, as well as IPOs and bond issuances to finance microfinance institutions. In addition to capital, microfinance institutions and fintechs also need talent and know-how to be able to scale up their activities responsibly with diverse products and services. Our Financial Inclusion Initiative is designed to strengthen the capacity of these institutions so that they can serve the financial needs of clients at the base of the income pyramid as effectively as possible. Here, the focus is on developing financial products and services in areas such as financing for agriculture and smallholder farmers, the construction and improvement of homes, the provision of financial services tailored specifically to women as well as the funding of education. For example, in 2019 our partner Opportunity International (OI) reached the milestone of bringing affordable quality education to more than four million children across the globe – an effort that was heavily supported by Credit Suisse’s early funding of OI’s Education Finance team.
+
+In 2019, 134 microfinance institutions and fintech start-ups have benefited from our support. 1,140 local employees of microfinance institutions have been trained (number of trainers trained through our programmes) and over 372,200 people have benefited from access to new or improved products and services. With its investments our partner Accion Venture Lab generated an additional USD 130 million for financially inclusive fintechs.
+
+Our role in the economy and society:
+
+CRR 2019: pp. 30-34
+
+Our social commitments:
+
+CRR 2019: pp. 35-39
+
+Global Education Initiative (Internet)
+
+Financial Inclusion (Internet)
+
+Global Citizens Program (Internet)
+
+GRI 205: Anti-corruption
+
+7 GRI 103: Management approach for anti-corruption
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+We believe that protecting the integrity of the financial system is a core responsibility of banks. At Credit Suisse, we
+
+are committed to complying with all applicable financial crime laws and regulations in the jurisdictions in which we
+
+operate. We have established global policies and procedures in an effort to achieve more robust and consistent
+
+standards of compliance, including in relation to politically exposed persons (PEP), the prevention of money laundering
+
+and terrorist financing, bribery and corruption, as well as the adherence to applicable economic and trade sanctions
+
+laws. In an effort to avoid direct and indirect involvement in such practices, we are committed to only doing business
+
+with clients and third parties who meet and adhere to our standards. We have a wide range of policies, procedures and
+
+internal controls, with requirements such as the evaluation of third parties who conduct business for or on behalf of
+
+Credit Suisse and dedicated controls for our employees related to gifts and enterta inment, employment opportunities,
+
+and charitable contributions.
+
+Credit Suisse maintains active participation in the Wolfsberg Group, a reflection of our continued commitment to
+
+understand the latest financial crime risks and controls, while also staying abreast of important regulatory and market
+
+developments.
+
+Financial integrity:
+
+CRR 2019: pp. 13–15
+
+Implementation of the Ten Principles of the UN Global Compact:
+
+CRR 2019: p. 62
+
+Wolfsberg Group (Internet)
+
+205-1
+
+Operations assessed for risks related to corruption
+
+Financial integrity:
+
+CRR 2019: pp. 13–15
+
+GRI 206: Anti-competitive behavior
+
+GRI 103: Management approach for anti-competitive behavior
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+See 103 for 205 Anti-Corruption
+
+206-1
+
+Legal actions for anti-competitive behavior, anti-trust, and monopoly practices
+
+See 419-1 Socioeconomic Compliance
+
+GRI 300: ENVIRONMENTAL
+
+SRS
+
+Disclosure
+
+Source
+
+Scope
+
+GRI 301: Materials
+
+GRI 103: Management approach for materials
+
+103-1
+
+103-2
+
+Explanation of the
+
+material topic and its
+
+Boundary
+
+The management
+
+approach and its
+
+components
+
+We take environmental impacts into account when conducting our business by developing sustainable products and
+
+services and addressing sustainability issues when managing risk. The implementation of various operational measures
+
+helps us to improve our environmental performance. When identifying key topics (i.e. materiality), we take account of
+
+the standards set by the Association for Environmental Management and Sustainability at Financial Institutions (VIU).
+
+Responsibility for the environment:
+
+CRR 2019: pp. 54–60
+
+Environment (Internet)
+
+103-3
+
+Evaluation of the
+
+management
+
+approach
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+Achievements 2019 and Objectives 2020 (Environment):
+
+CRR 2019: p. 69
+
+301-1*
+
+Materials used by weight or volume
+
+Please refer to the VfU indicators file, which lists our consumptions in the areas of energy, water, waste and paper.
+
+Global key performance indicators for environmental management:
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+CRR 2019: p. 59
+
+301-2*
+
+Recycled input materials used
+
+In order to reduce its environmental footprint, Credit Suisse focuses on increasing the share of FSC-certified (Forest Stewardship Council) paper. In 2019, the FSC share of paper consumption in Switzerland was 91%, compared to 93% in 2018. 78% of our global paper consumption in 2019 was of eco-certified quality.
+
+Environmental management:
+
+CRR 2019: p. 57
+
+GRI 302: Energy
+
+8 GRI 103: Management approach for energy
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and its
+
+Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+Energy consumption represents the largest direct climate-related impact that Credit Suisse has on the environment.
+
+The optimization of operations to increase energy efficiency is therefore a key component of our environmental strategy
+
+in our efforts to achieve a sustained reduction in greenhouse gas emissions.
+
+Responsibility for the environment:
+
+CRR 2019: pp. 54–60
+
+Achievements 2019 and Objectives 2020 (Environment):
+
+CRR 2019: p. 69
+
+302-1*
+
+Energy consumption within the organization
+
+The VfU Indicators File presents the in-house environmental performance indicators and includes the direct and indirect energy consumption from Credit Suisse’s premises.
+
+Premises Energy Consumption 462,900MWh / 1,666,000 GJ with following share:
+
+Electricity consumed 377,500 MWh / 1,359,000 GJ
+
+District Heating consumed 23,000 MWh / 82,800 GJ
+
+Fossil Fuels consumed 62,400 MWh / 225,000 GJ
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+302-3*
+
+Energy intensity
+
+The intensity indicator reported is energy consumption per capita (FTE).
+
+Please refer to the VfU indicators file, where the energy consumption per FTE is reported for overall energy consumption, electricity, district heating and fossil fuels.
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+302-4*
+
+Reduction of energy consumption
+
+Examples for measures:
+
+
+
+
+
+Servers that are no longer in use were responsibly handled through recycling or reuse. 1,342 servers were disposed through recycling, 547 decommissioned servers were reused for new demands, and 41 servers were sold. Overal, the server estate grew by 12,041 servers in 2019, with the virtual server estate increasing by 12,383 servers and the physical server estate reduced by 342 servers. If all 65,620 virtual servers were deployed as physical servers, there would have been an approximately 15,749-kW increase in power consumption.
+
+Under the framework of our energy efficiency program, we have continued to optimize energy consumption at premises used for operational purposes in Switzerland. In 2019, thanks to 38 different measures across our building systems (heating, ventilation and air-conditioning), lighting and the building envelope, we have achieved a recurring increase in annual energy efficiency of 1.6 GWh. Overall, the measures implemented are equivalent to a reduction in CO 2 emissions of around 387 metric tons a year.
+
+Responsibility for the environment:
+
+CRR 2019: pp. 54–60
+
+Measures Taken in All Regions (Internet)
+
+GRI 303: Water
+
+GRI 103: Management approach for water
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+See 103 for 301 Materials
+
+303-1*
+
+Water withdrawal by source
+
+The global water consumption in Credit Suisse buildings around the world was 765,000 m³ in 2019, 97% of which was drawn from local municipal utility companies. In Switzerland, Credit Suisse uses rainwater for gardening purposes at its Zurich Uetlihof building (the largest Credit Suisse building worldwide). For cooling purposes, Credit Suisse uses lake water in Zug and river water from the Rhone River in Geneva. This, however, is not a withdrawal; just the energy content of the water is used.
+
+Global key performance indicators for environmental management:
+
+Environmental Management (Internet)
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+CRR 2019: p. 59
+
+GRI 304: Biodiversity
+
+GRI 103: Management approach for biodiversity
+
+103-1
+
+103-2
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+At Credit Suisse, we view the protection of biodiversity as an integral part of our sustainability commitments, and we
+
+address this topic in a variety of ways. In our risk management processes, we have incorporated biodiversity -related
+
+aspects into our sector-specific policies and guidelines. For example, our policy requirements for the forestry and
+
+agribusiness sectors are aligned with relevant sustainability initiatives such as the Roundtable on Sustainable Palm Oil
+
+(RSPO) – of which we are a member – and the Forest Stewardship Council (FSC). To promote good forestry and
+
+agribusiness practices and to discourage net forest conversion, our policies also include restrictions on financing
+
+9 103-3
+
+Evaluation of the
+
+management
+
+approach
+
+activities related to High Conservation Value Forests as well as provisions for the particular scrutiny of peatland
+
+operations and the prohibition of financial services for operations in protected areas such as UNESCO World Heritage
+
+sites.
+
+We also engage with stakeholders on defining ways for the financial industry to contribu te to preserving biodiversity
+
+and the world’s natural habitats. For instance, we have acted as a technical advisor to the Zoological Society of
+
+London’s Sustainability Policy Transparency Toolkit (SPOTT) for a number of years, and are part of the Technical
+
+Advisory Group for the palm oil and the timber and pulp sectors. SPOTT currently assesses over 200 commodity
+
+producers and traders on the public disclosure of their policies, operations and commitments to environmental, social
+
+and governance best practices. We also supported the expansion of the SPOTT platform to the natural rubber sector
+
+in 2019, and we continue to assist with SPOTT website design and content updates through employee “virtual
+
+volunteering” activities. Moreover, we provided support to the High Conservation Value Resource Network (HCVRN)
+
+secretariat for the development of a training strategy to improve the quality of High Conservation Value and High
+
+Carbon Stock Assessments in the palm oil sector.
+
+Recognizing the need for capital in conserving ecosystems, we are active in the conservation finance space, which
+
+focuses on the creation of new, long-term and diversified sources of revenue that can play a role in ensuring terrestrial
+
+as well as marine biodiversity conservation and the health of natural ecosystems. We are expanding our product
+
+offering in this space. In 2019, Credit Suisse was also the sole manager of a Sustainable Development Bond issuance
+
+by the World Bank, focusing attention on the so-called “blue economy”.
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17–22
+
+Sustainable, thematic and impact investing products and services:
+
+CRR 2019: pp. 23–27
+
+Responsibility for the environment:
+
+CRR 2019: pp. 54–60
+
+Biodiversity & Natural Capital (Internet)
+
+Conservation Finance (Internet)
+
+Coalition for Private Investment in Conservation (Internet)
+
+Environment (Internet)
+
+304-1*
+
+Operational sites owned, leased, managed in, or adjacent to protected areas and areas of high biodiversity value outside protected areas
+
+Partially reported, as this indicator is not considered relevant for a financial services provider.
+
+Credit Suisse’s largest offices are located in cities such as Zurich, London, New York, Singapore, Hong Kong, Tokyo and São Paulo. Credit Suisse has limited direct impacts on local biodiversity through its own internal operations, and those impacts do not affect any protected areas. Credit Suisse has premises with areas close to its headquarters in Zurich (Uetlihof/60,000 m 2 certified) and Horgen (Bocken/20,000 m 2 certified) which have been awarded the quality label "Naturpark der Schweizer Wirtschaft" (see also ), as they have been designed and are maintained in harmony with nature.
+
+Stiftung Natur und Wirtschaft
+
+Responsibility for the environment:
+
+CRR 2019: pp. 54–60
+
+304-2*
+
+Significant impacts of activities, products, and services on biodiversity
+
+Credit Suisse has limited direct impacts on local biodiversity through its own operations.
+
+In our risk management processes, we have incorporated biodiversity-related aspects into our sector-specific policies and guidelines. For example, our policy requirements for the forestry and agribusiness sectors are aligned with relevant sustainability initiatives such as the RSPO – of which we are a member – and the FSC. To promote good forestry and agribusiness practices and to discourage net forest conversion, our policies also include restrictions on financing activities related to High Conservation Value Forests as well as provisions for the particular scrutiny of peatland operations and the prohibition of financial services for operations in protected areas such as UNESCO World Heritage sites.
+
+We also engage with stakeholders on defining ways for the financial industry to contribute to preserving biodiversity and the world’s natural habitats. For instance, we have acted as a technical advisor to the Zoological Society of London’s SPOTT for a number of years, and are part of the Technical Advisory Group for the palm oil and the timber and pulp sectors. SPOTT currently assesses over 200 commodity producers and traders on the public disclosure of their policies, operations and commitments to environmental, social and governance best practices. We also supported the expansion of the SPOTT platform to the natural rubber sector in 2019, and we continue to assist with SPOTT website design and content updates through employee “virtual volunteering” activities. Moreover, we provided support to the High Conservation Value Resource Network (HCVRN) secretariat for the development of a training strategy to improve the quality of High Conservation Value and High Carbon Stock Assessments in the palm oil sector.
+
+Recognizing the need for capital in conserving ecosystems, we are active in the conservation finance space, which focuses on the creation of new, long-term and diversified sources of revenue that can play a role in ensuring terrestrial as well as marine biodiversity conservation and the health of natural ecosystems. We are expanding our product offering in this space. In 2019, Credit Suisse was also the sole manager of a Sustainable Development Bond issuance by the World Bank, focusing attention on the so-called “blue economy”.
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Risk Management and Sustainability Internet)
+
+Biodiversity and natural capital:
+
+CRR 2019: pp. 55–56
+
+Biodiversity & Natural Capital (Internet)
+
+GRI 305: Emissions
+
+GRI 103: Management approach for emissions
+
+103-1
+
+103-2
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Statement on Climate Change (PDF)
+
+Global key performance indicators for environmental management:
+
+CRR 2019: p. 59
+
+Environmental management (Internet)
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+See also 103 for 301 Materials
+
+10 103-3
+
+Evaluation of the
+
+management
+
+approach
+
+305-1*
+
+Direct (Scope 1) GHG emissions
+
+Credit Suisse generated 127,500 metric tons of net greenhouse gas (GHG) emissions globally (measured in CO 2 equivalents, Scope 1–3, rounded figures) in 2019. Of this, 15,600 metric tons were direct emissions (Scope 1). For the regional split and further details see the 2019 VfU Indicators File.
+
+The primary sources of Credit Suisse’s emissions are energy consumption from premises and business travel. Credit Suisse’s net emissions (Scope 1–3, rounded figures) were 152,900 metric tons in 2018 and 164,800 metric tons in 2017. These figures are offset to zero in our voluntary GHG neutrality.
+
+Global key performance indicators for environmental management:
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+CRR 2019: p. 59
+
+305-2*
+
+Energy indirect (Scope 2) GHG emissions
+
+Credit Suisse generated 127,500 metric tons of net greenhouse gas (GHG) emissions globally (measured in CO 2 equivalents, Scope 1–3, scope 2 market based, rounded figures) in 2019. Of this 19,500 metric tons were indirect emissions Scope 2 market based mix. Scope 2 emissions according to the location based mix are 142,400 metric tons, leading to gross GHG emissions of 250,400 metric tons globally for Scope 1–3 (location based).
+
+Global key performance indicators for environmental management:
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+CRR 2019: p. 59
+
+305-3*
+
+Other indirect (Scope 3) GHG emissions
+
+Credit Suisse’s other indirect GHG emissions (Scope 3) were 92,400 metric tons (measured in CO 2 equivalents) in 2019.
+
+Global key performance indicators for environmental management:
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+CRR 2019: p. 59
+
+305-4*
+
+GHG emissions intensity
+
+The intensity indicator reported is GHG emissions per capita (FTE).
+
+Please refer to the VfU indicators file, where the greenhouse gas emissions per FTE are reported for overall greenhouse gas emissions gross and net as well as Scope 1, 2 and 3 emissions per FTE.
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+305-5*
+
+Reduction of GHG emissions
+
+Credit Suisse became the first major Swiss corporation to achieve GHG neutrality for its operations in Switzerland in 2006. Since 2010, it has achieved this for all operations globally by pursuing a four-pillar strategy: optimizing operations through efficiency gains and reduction of energy consumption; investing in low-energy renovation, new building, and technology; substituting conventional energy with climate-friendly energy sources; and finally, compensating remaining GHG emissions with the purchase of emissions reduction certificates (ERCs).
+
+Responsibility for the environment:
+
+CRR 2019: pp. 54–60
+
+Greenhouse gas neutrality (Internet)
+
+Measures Taken in All Regions (Internet)
+
+GRI 306: Effluents and waste
+
+GRI 103: Management approach for effluents and waste
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+Global key performance indicators for environmental management:
+
+CRR 2019: p. 59
+
+Environmental Management (Internet)
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+See also 103 for 301 Materials
+
+306-1*
+
+Water discharged by quality and destination
+
+The annual water consumption of Credit Suisse of 765,000 m³ in 2019 is considered household wastewater and treated in municipal sewage purification plants. According to updated GHG footprint calculations according to VfU Standard 2018, it is estimated that the energy used for the delivery and the purification of our water consumption resulted in GHG emissions (CO 2 equivalents) of approximately 500 metric tons per year.
+
+Global key performance indicators for environmental management:
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+CRR 2019: p. 59
+
+306-2*
+
+Waste by type and disposal method
+
+The total amount of waste in 2019 was 6,320 tons/130 kg per FTE. 44% of the global waste is recycled, 24% incinerated, 32% deposited in landfills and 0.1% is hazardous waste.
+
+Global key performance indicators for environmental management:
+
+Environmental Performance Data for 2019 (VfU) (PDF)
+
+CRR 2019: p. 59
+
+GRI 308: Supplier environmental assessment
+
+GRI 103: Management approach for supplier environmental assessment
+
+103-1
+
+103-2
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Supplier Code of Conduct and Third Party Risk Management (TPRM):
+
+CRR 2019: p. 22
+
+Supplier Code of Conduct (PDF)
+
+11 103-3
+
+Evaluation of the
+
+management
+
+approach
+
+308-1*
+
+New suppliers that were screened using environmental criteria
+
+Credit Suisse works with numerous suppliers and service providers from a broad range of sectors. We expect these partners to address risks responsibly and to conduct their business in a socially and environmentally responsible manner. Our Supplier Code of Conduct, which was last updated in February 2020, aims to ensure that our external business partners respect human rights, labor rights, employment laws and environmental regulations. To manage financial, operational and reputational risks and to meet the increasing regulatory requirements governing business relationships with third parties, Credit Suisse introduced the Third Party Risk Management (TPRM) framework in 2016. Through TPRM, we assess potential environmental, social and labor law-related risks, among others, in connection with third parties. The framework also allows Credit Suisse to continuously monitor these relationships, to raise and track issues and, if necessary, to demand actions for improvement from suppliers and service providers. Our TPRM framework is embedded in day-to-day sourcing and vendor management processes to assess risks when conducting business with suppliers. All supplier relationships undergo an initial screening, which also considers environmental criteria. As a result, in 2019, 18% of supplier relationships have been referred to Sustainability Affairs for an assessment of environmental and social risks.
+
+Supplier Code of Conduct and Third Party Risk Management (TPRM):
+
+Supplier Code of Conduct (PDF)
+
+CRR 2019: p. 22
+
+GRI 400: SOCIAL
+
+SRS
+
+Disclosure
+
+Source
+
+Scope
+
+GRI 401: Employment
+
+GRI 103: Management approach for employment
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+The success of our company ultimately depends on the skills, experience and conduct of our employees. For our
+
+business to perform well, we must offer our clients best-in-class financial solutions and banking services. This goal can
+
+only be realized if we can attract and retain the most talented professionals in our role as an employer of choice.
+
+At Credit Suisse, we offer exciting careers, progressive employment conditions and wide-ranging training and
+
+development opportunities. As a result, our employees benefit from attractive long-term career prospects in an
+
+international working environment, helping us to retain their knowledge and experience within the bank and to derive
+
+maximum benefit from it in the interests of our clients.
+
+Responsibility as an employer:
+
+CRR 2019: pp. 44–50
+
+Employer (Internet)
+
+401-1*
+
+New employee hires and employee turnover
+
+The global voluntary turnover rate for 2019 was 9.8% (11.4% in 2018). The global involuntary turnover rate for 2018 was 3.2% (5.0% in 2018).
+
+Regional breakdown of voluntary turnover relative to the total number of employees for 2019: 9.5% in the Americas; 11.8% in APAC; 10.8% in EMEA, and 7.8% in Switzerland.
+
+Regional breakdown of involuntary turnover relative to the total number of employees for 2019: 3.9% in the Americas; 1.9% in APAC; 4.8% in EMEA, and 3.0% in Switzerland.
+
+Credit Suisse does not report on the turnover rate by gender and age group, due to bank-specific regulatory limitations and internal guidelines.
+
+Employee turnover:
+
+CRR 2019: p. 46
+
+401-2
+
+Benefits provided to full-time employees that are not provided to temporary or part-time employees
+
+Responsibility as an employer:
+
+Employer (Internet)
+
+CRR 2019: pp. 44–50
+
+GRI 402: Labor/management relations
+
+GRI 103: Management approach for labor/management relations
+
+103-1
+
+103-2
+
+103-3
+
+Explanation of the
+
+material topic and
+
+its Boundary
+
+The management
+
+approach and its
+
+components
+
+Evaluation of the
+
+management
+
+approach
+
+See 103 for 401 Employment
+
+402-1
+
+Minimum notice periods regarding operational changes
+
+Notice periods for operational changes are labor-market specific. If restructuring and redundancies are unavoidable, Credit Suisse tries to implement these measures in a responsible, fair, and consistent manner, taking the individual circumstances of the affected employees into consideration. Credit Suisse strives to offer employees time, tools, and professional support in these circumstances. In certain regions, focus is placed on providing individual support and personal advice to help the employees start a new career.
+
+Responsibility as an employer:
+
+Employer (Internet)
+
+CRR 2019: pp. 44–50
+
+12 GRI 403: Occupational health and safety
+
+GRI 103: Management approach for occupational health and safety
+
+103-1
+
+103-2
+
+103-3
+
+403-1
+
+403-2
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Workers representation in formal joint managementworker health and safety committees
+
+Types of injury and rates of injury, occupational diseases, lost days, and absenteeism, and number of work-related fatalities
+
+GRI 404: Training and education
+
+We consider employee health and safety to be of the utmost importance, and we have internal policies in place to help guarantee a safe office environment. Subject matter experts ensure that continuous safety improvements are made in line with local legal requirements. One example from 2019 is the introduction of a global Health & Safety Incident Reporting System, which considerably simplifies the evaluation of relevant statistics and thus supports the choice of appropriate accident prevention measures. In 2011, Credit Suisse became the first Swiss financial services provider to be awarded OHSAS 18001 certification (Occupational Health and Safety Assessment Series) for its operations in Switzerland. We successfully renewed this certification in 2018.
+
+Attractive working environment and flexible working:
+
+Flexibility & Health (Internet)
+
+See 103 for 403 Occupational Health and Safety
+
+CRR 2019: pp. 48–49
+
+Responsibility as an employer:
+
+CRR 2019: pp. 44–50
+
+Credit Suisse does not currently report on lost days and absenteeism globally, as definitions of these differ nationally and are governed by local legal requirements and Credit Suisse’s systems capture this data on a regional rather than global level. For 2019 in Switzerland only, 2.4% of the committed overall working time comprised absences due to illness or accidents (for 2018 the rate was 2.7% and for 2017 the rate was 2.5%).
+
+GRI 103: Management approach for training and education
+
+103-1
+
+103-2
+
+103-3
+
+404-1*
+
+404-2*
+
+404-3*
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Average hours of training per year per employee
+
+Programs for upgrading employee skills and transition assistance programs
+
+Percentage of employees receiving regular performance and career
+
+Our training and development programs enable us to further improve the quality of our service and advisory offering and to continuously adapt our business to evolving market and client needs.
+
+Credit Suisse offers employees a wide range of training programs involving traditional classroom instruction, e-learning, video-based courses and online learning communities. Additionally, employees can complete short training programs on their mobile devices, enhancing the user experience.
+
+Responsibility as an employer:
+
+Talent Development (Internet)
+
+CRR 2019: pp. 44–50
+
+In 2019, each Credit Suisse employee received an average of 19 training hours. By employee category, the training hours per employee (including contractors) were: staff (Staff, Exempt Non-Officer and Analyst) 23.3 training hours; middle management (Associate and Assistant Vice President) 16.5 training hours; senior management (Vice President, Director, and Managing Director) 15.7 training hours.
+
+Responsibility as an employer:
+
+Talent Development (Internet)
+
+CRR 2019: pp. 44-50
+
+Credit Suisse offers employees a wide range of training programs involving traditional classroom instruction, e-learning, video-based courses and online learning communities. Additionally, employees can complete short training programs on their mobile devices, enhancing the user experience. Additionally, employees can complete short training programs on their mobile devices, enhancing the user experience. Each employee completed at least ten mandatory training modules in the course of the year, depending on his or her area of responsibility. In 2019, launched over 70 new mandatory e-learning programs on regulatory topics such as financial crime, cyber security and information awareness, as well as compliance with our Conduct and Ethics Standards. Our client-facing employees complete courses on cross-border activities and on topics such as the transition away from the IBOR benchmark interest rates to Alternative Reference Rates. In addition, a new course on the identification and management of conflicts of interest was conducted to train all personnel on this topic, which is of critical importance for the bank.
+
+In 2019, we achieved a 99.8% (2018=99.8%) completion rate for mandatory training.
+
+Talent Development in figures for 2019: 725 classroom leadership training sessions and 58,900 classroom-delivered training days; 74,200 participants in instructor-led courses; 996,900 participants in e-learning courses including mandatory modules; on average, 83% of the participants were satisfied with instructor-led training.
+
+At Credit Suisse, we are also committed to helping employees realize their full potential at every stage of their career, including more mature professionals within our workforce who bring considerable skills and experience to their roles. We provide tailored support so that this group of employees can adjust their skill sets to changing market needs, adapt to new environments and remain employable in the labor market.
+
+Responsibility as an employer:
+
+CRR 2019: pp. 44-50
+
+Our experienced employees in Switzerland / Challenge and Response:
+
+CRR 2019: p. 49
+
+Diversity in the Workplace: Credit Suisse Ranks Top among the Largest Swiss Companies (Internet)
+
+In 2019, the bank-wide completion rate of the annual performance review was 98%.
+
+Credit Suisse does not report on the breakdown by gender and by employee category, due to bank specific regulatory limitations and internal guidelines.
+
+13 development reviews
+
+Additional details on Credit Suisse’s Performance and Development can be found in the CRR; please refer to:
+
+Responsibility as an employer:
+
+CRR 2019: pp. 44-50
+
+GRI 405: Diversity and equal opportunity
+
+GRI 103: Management approach for diversity and equal opportunity
+
+103-1
+
+103-2
+
+103-3
+
+405-1*
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Diversity of governance bodies and employees
+
+The diversity of our workforce, including the different skills, mindsets, knowledge and experience of our employees, gives us a better understanding of our clients’ expectations, cultural backgrounds and regional markets. Credit Suisse today employs people from 180 different countries. We are committed to providing and promoting equal opportunities, regardless of ethnicity, nationality, gender, sexual orientation, gender identity, religion, age, civil or marital status, pregnancy, disability, or any other characteristics protected by law.
+
+Our internal experts work closely with our businesses across the globe to ensure that a diversity and inclusion framework is firmly embedded in our corporate culture. They partner with managers on the planning and implementation of initiatives to promote an inclusive working environment. We also consider it important to engage in a dialogue with external partners in the area of diversity and inclusion. In January 2019, Credit Suisse was once again awarded first place among participating institutions in the Diversity Index published by the Lucerne University of Applied Sciences and Arts. In 2019, AVTAR benchmarked Credit Suisse as one of the Top Ten Best Places to Work for Women and named the Bank as an “Exemplar of Inclusion”. This underscores the Group’s continuous commitment to diversity and inclusion in the workplace.
+
+Diversity and inclusion/Advancement of women:
+
+Global Diversity & Inclusion (Internet)
+
+CRR 2019: pp. 46–47
+
+Women account for 37% of Credit Suisse’s total workforce (full-time equivalents), 22% of Credit Suisse’s senior leadership (Directors and Managing Directors), 3 out of 12 members of the Executive Board and 3 out of 13 members of the Board of Directors.
+
+The age breakdown of Credit Suisse employees for 2019 was as follows:
+
+<20 years (apprentices) 1.1%; from 20–29 years 18.6%; from 30–39 years 36.9%; from 40–49 years 26.2%; from 50–59 years 14.6%; >59 years 2.6%. Credit Suisse does not report on the breakdown by minority group, due to bank specific regulatory limitations and internal guidelines.
+
+Responsibility as an employer:
+
+CRR 2019: pp. 44-50
+
+Board of Directors:
+
+AR 2019: pp.188-209
+
+Executive Board:
+
+AR 2019: pp. 220-219
+
+GRI 406: Non-discrimination
+
+GRI 103: Management approach for non-discrimination
+
+103-1
+
+103-2
+
+103-3
+
+406-1
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Incidents of discrimination and corrective actions taken
+
+See 103 for 405 Diversity and Equal Opportunity
+
+Credit Suisse is committed to providing and promoting equal opportunities, regardless of ethnicity, nationality, gender, sexual orientation, gender identity, religion, age, civil or marital status, pregnancy, disability, or any other characteristics protected by law. Our internal experts work closely with our businesses across the globe to ensure that a diversity and inclusion framework is firmly embedded in our corporate culture.
+
+Details are not reported due to confidentiality reasons.
+
+Diversity and inclusion/Advancement of women:
+
+Global Diversity & Inclusion (Internet)
+
+CRR 2019: pp. 46–47
+
+GRI 407: Freedom of association and collective bargaining
+
+GRI 103: Management approach for freedom of association and collective bargaining
+
+103-1
+
+103-2
+
+103-3
+
+407-1*
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Operations and suppliers in which the right to freedom
+
+Credit Suisse is a signatory of the UN Global Compact, whose Principle 3 outlines that businesses should uphold the freedom of association and the right to collective bargaining. Regarding its own employees, Credit Suisse considers it important to maintain close contact with its staff. To do so, Credit Suisse cooperates closely with employee bodies that represent the interests of staff, such as the European Works Council in the EU, and the Swiss Staff Council (PKOM) in Switzerland.
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17–22
+
+Implementation of the Ten Principles of the UN Global Compact:
+
+UN Global Compact (Internet)
+
+Employee Representation (Internet)
+
+CRR 2019: p. 62
+
+Credit Suisse is a signatory of the UN Global Compact, whose Principle 3 outlines that businesses should uphold the freedom of association and the right to collective bargaining. Regarding its own employees, Credit Suisse considers it
+
+14 of association and collective bargaining may be at risk
+
+important to maintain close contact with its staff. To do so, Credit Suisse cooperates closely with employee bodies that represent the interests of staff, such as the European Works Council in the EU, and PKOM in Switzerland.
+
+Regarding its relationships with clients and suppliers, Credit Suisse seeks to include human rights considerations in all of its sector-specific global policies and in its Supplier Code of Conduct and the TPRM framework.
+
+Credit Suisse works with numerous suppliers and service providers from a broad range of sectors. We expect these partners to address risks responsibly and to conduct their business in a socially and environmentally responsible manner. Our Supplier Code of Conduct, which was last updated in February 2020, aims to ensure that our external business partners respect human rights, labor rights, employment laws and environmental regulations. To manage financial, operational and reputational risks and to meet the increasing regulatory requirements governing business relationships with third parties, Credit Suisse introduced the TPRM framework in 2016. Through TPRM, we assess potential environmental, social and labor law-related risks, among others, in connection with third parties. The framework also allows Credit Suisse to continuously monitor these relationships, to raise and track issues and, if necessary, to demand actions for improvement from suppliers and service providers.
+
+Our TPRM framework is embedded in day-to-day sourcing and vendor management processes to assess risks when conducting business with suppliers.
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Supplier Code of Conduct and Third Party Risk Management (TPRM):
+
+Supplier Code of Conduct (PDF)
+
+CRR 2019: p. 22
+
+GRI 408: Child labor
+
+GRI 103: Management approach for child labor
+
+103-1
+
+103-2
+
+103-3
+
+408-1*
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Operations and suppliers at significant risk for incidents of child labor
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Risk Mamagement and Sustainability (Internet)
+
+Implementation of the Ten Principles of the UN Global Compact:
+
+UN Global Compact (Internet)
+
+Statement on Human Rights (PDF)
+
+Suppliers (Internet)
+
+Supplier Code of Conduct (PDF)
+
+CRR 2019: p. 62
+
+Credit Suisse is a signatory of the UN Global Compact, whose Principle 5 outlines the abolition of child labor. As a global financial services provider, Credit Suisse’s risks related to child labor may arise indirectly through relationships with clients and suppliers. To manage these risks towards clients, human rights considerations are included in all of the bank’s sector-specific global policies. In these policies, Credit Suisse states that it will not finance or advise companies where there is credible evidence of involvement in grave human rights abuses, including child labor.
+
+To manage these risks towards suppliers, Credit Suisse sets forth human rights provisions in its Supplier Code of Conduct, including the rejection of child labor.
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Respecting human rights:
+
+CRR 2019: pp. 20
+
+Statement on Human Rights (PDF)
+
+Supplier Code of Conduct and Third Party Risk Management (TPRM):
+
+Suppliers (Internet)
+
+Supplier Code of Conduct (PDF)
+
+CRR 2019: p. 22
+
+Implementation of the Ten Principles of the UN Global Compact:
+
+UN Global Compact (Internet)
+
+CRR 2019: p. 62
+
+GRI 409: Forced or compulsory labor
+
+GRI 103: Management approach for forced or compulsory labor
+
+103-1
+
+103-2
+
+103-3
+
+409-1*
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Operations and suppliers at significant risk for incidents of forced or compulsory labor
+
+See also 103 for 408 Child Labor
+
+Credit Suisse is a signatory of the UN Global Compact, whose Principle 4 outlines the elimination of forced or compulsory labor. As a global financial services provider, risks related to forced labor may arise indirectly through relationships with clients and suppliers. In order for Credit Suisse to manage these risks towards clients, human rights considerations are included in all of the bank’s sector-specific global policies. In these policies, Credit Suisse states that it will not finance or advise companies where there is credible evidence of involvement in grave human rights abuses, including forced labor. To manage these risks towards suppliers, Credit Suisse sets forth human rights provisions in its Supplier Code of Conduct, including the rejection of forced or compulsory labor.
+
+Our Modern Slavery & Human Trafficking Transparency Statement sets out the steps that Credit Suisse is taking to prevent the occurrence of modern slavery and human trafficking in our business operations and within our supply chain.
+
+15 Risk management and sustainability:
+
+CRR 2019: pp. 17-
+
+22
+
+Respecting human rights:
+
+CRR 2019: p. 20
+
+Statement on Human Rights (PDF)
+
+Supplier Code of Conduct and Third Party Risk Management (TPRM):
+
+Supplier Code of Conduct (PDF)
+
+CRR 2019: p. 22
+
+Implementation of the Ten Principles of the UN Global Compact:
+
+UN Global Compact (Internet)
+
+CRR 2019: p. 62
+
+Modern Slavery & Human Trafficking Transparency Statement 2019 (Internet)
+
+GRI 412: Human rights assessment
+
+GRI 103: Management approach for human rights assessment
+
+103-1
+
+103-2
+
+103-3
+
+412-1*
+
+412-3*
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Operations that have been subject to human rights reviews or impact assessments
+
+Total number and percentage of significant investment agreements and contracts that include human rights clauses or that underwent human rights screening
+
+Reputational Risk Review Process:
+
+CRR 2019: pp. 17-18
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-
+
+22
+
+Risk Management and Sustainability (Internet)
+
+In 2019, a total of 799 transactions or client relationships were assessed using the risk review process to determine whether they posed an environmental or social risk. 73% of the transactions were approved, 8% were approved with conditions, 10% were rejected or not pursued and 9% are still pending (as of January 31, 2020). These statistics exclude potential transactions that were not formally reviewed as part of the risk review process because they were immediately identified by the relationship manager as being non-compliant with Credit Suisse’s requirements and guidelines.
+
+Sector breakdown of transactions (including Equator Principles transactions): 2% Chemicals, 13% Power generation and transmission, 2% Defense, 11% Forestry and Agribusiness, 8% Infrastructure and transportation, 16% Oil & Gas, 20% Metals and mining, 7% Finance, and 21% Other.
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Risk Management and Sustainability (Internet)
+
+Credit Suisse is a signatory of the UN Global Compact, whose Principle 2 includes the provision that a company is not complicit in human rights abuses. If Credit Suisse believes that an investment transaction could pose such a risk, Credit Suisse carries out a detailed internal risk review process. Human rights considerations are included in all of the bank’s sector-specific global policies. In these policies, Credit Suisse states that it will not finance or advise companies where there is credible evidence of involvement in grave human rights abuses such as forced labor, employment of children, or the use of violence against local communities and indigenous groups.
+
+In 2019, a total of 799 transactions or client relationships were assessed using the risk review process to determine whether they posed an environmental or social risk. 73% of the transactions were approved, 8% were approved with conditions, 10% were rejected or not pursued and 9% are still pending (as of January 31, 2020). These statistics exclude potential transactions that were not formally reviewed as part of the risk review process because they were immediately identified by the relationship manager as being non-compliant with Credit Suisse’s requirements and guidelines.
+
+Sector breakdown of transactions (including Equator Principles transactions): 2% Chemicals, 13% Power generation and transmission, 2% Defense, 11% Forestry and Agribusiness, 8% Infrastructure and transportation, 16% Oil & Gas, 20% Metals and mining, 7% Finance, and 21% Other.
+
+Risk management and sustainability:
+
+CRR 2019: pp. 17-22
+
+Risk Management and Sustainability (Internet)
+
+Sector Policies and Guidelines (PDF)
+
+Human Rights (Internet)
+
+Statement on Human Rights (PDF)
+
+GRI 414: Supplier social assessment
+
+GRI 103: Management approach for supplier social assessment
+
+103-1
+
+103-2
+
+103-3
+
+414-1*
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+New suppliers that were screened using social criteria
+
+Supplier Code of Conduct and Third Party Risk Management (TPRM):
+
+Suppliers (Internet)
+
+Supplier Code of Conduct (PDF)
+
+CRR 2019: p. 22
+
+Credit Suisse works with numerous suppliers and service providers from a broad range of sectors. We expect these partners to address risks responsibly and to conduct their business in a socially and environmentally responsible manner. Our Supplier Code of Conduct, which was last updated in February 2020, aims to ensure that our external
+
+16 business partners respect human rights, labor rights, employment laws and environmental regulations. To manage financial, operational and reputational risks and to meet the increasing regulatory requirements governing business relationships with third parties, Credit Suisse introduced the TPRM framework in 2016. Through TPRM, we assess potential environmental, social and labor law-related risks, among others, in connection with third parties. The framework also allows Credit Suisse to continuously monitor these relationships, to raise and track issues and, if necessary, to demand actions for improvement from suppliers and service providers.
+
+Our TPRM framework is embedded in day-to-day sourcing and vendor management processes to assess risks when conducting business with suppliers. All supplier relationships undergo an initial screening, which also considers social criteria. As a result, in 2019, 18% of supplier relationships have been referred to Sustainability Affairs for an assessment of environmental and social risks.
+
+Supplier Code of Conduct and Third Party Risk Management (TPRM):
+
+Supplier Code of Conduct (PDF)
+
+CRR 2019: p. 22
+
+GRI 415: Public policy
+
+GRI 103: Management approach for public policy
+
+103-1
+
+103-2
+
+103-3
+
+415-1
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Political contributions
+
+Credit Suisse considers it important to engage in discussions with various stakeholders – from policymakers, legislators and regulators to representatives of the business community and society – to understand the issues that are important to them and to help find constructive solutions to current challenges.
+
+Our role in the economy and society:
+
+CRR 2019: pp. 30–34
+
+Supporting the political system in Switzerland and beyond:
+
+CRR 2019: p. 33
+
+GRI 417: Marketing and labeling
+
+GRI 103: Management approach for marketing and labeling
+
+103-1
+
+103-2
+
+103-3
+
+417-1
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Requirements for product and service information and labeling
+
+Trust and expertise:
+
+CRR 2019: pp. 14–18
+
+Credit Suisse has global policies in place as part of its efforts to ensure appropriate and accurate product and service information is obtained and compliance with applicable laws and regulations of countries where products and services are used and distributed is achieved.
+
+Trust and expertise:
+
+CRR 2019: pp. 12–16
+
+GRI 418: Customer privacy
+
+GRI 103: Management approach for customer privacy
+
+103-1
+
+103-2
+
+103-3
+
+418-1
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Substantiated complaints concerning breaches of customer privacy and losses of customer data
+
+See 103 for 417 Marketing and Labeling
+
+Not disclosed due to confidentiality
+
+
+
+17 GRI 419: Socioeconomic compliance
+
+GRI 103: Management approach for socioeconomic compliance
+
+103-1
+
+103-2
+
+103-3
+
+419-1
+
+Explanation of the material topic and its Boundary
+
+The management approach and its components
+
+Evaluation of the management approach
+
+Non-compliance with laws and regulations in the social and economic area
+
+See 103 for 417 Marketing and Labeling
+
+Credit Suisse discloses material matters as mandated by legal and regulatory requirements in its financial reports and other public filings; please refer to:
+
+Litigation:
+
+AR 2019: pp. 3787-387
+
+Trust and expertise:
+
+CRR 2019: pp. 12–16
+
+18
+The responsible
+consumer
+Whitepaper
+The responsible consumer – Credit Suisse 3
+The responsible
+consumer
+04 Foreword
+06 Introduction 16
+Chapter 3
+The opportunity
+17 Spotlight: A note on plastics
+18 Fashion
+22 Consumer electronics
+24 Food & beverage
+28 Mobility
+29 Spotlight:
+Are electric vehicles sustainable?
+32 Household & personal products
+35 Spotlight: Investing in
+“The responsible consumer” theme
+36 Sustainable tourism
+38
+Conclusion
+12
+Chapter 2
+Forces of change
+12 Legal & regulatory pressure
+on the rise
+13 Changing consumer preferences
+14 Spotlight: A view from Asia
+15 Investors take note
+Table of contents
+40 Imprint
+41 Important information
+42 References
+08
+Chapter 1
+Ecological limits
+08 Demographic pressure rising
+09 Ecosystems on the brink
+10 Spotlight: Value chain
+4 The responsible consumer – Credit Suisse 5
+Foreword
+Since establishing the Impact Advisory & Finance (IAF)
+Department in October 2017, we have published a number
+of thought leadership pieces sharing our perspectives
+on the rapidly developing sustainable finance market.
+As IAF continues to engage with clients across
+the bank, from ultra-high net worth individuals to
+large institutional investors and corporates, we
+are able to identify those emerging trends, themes,
+and business opportunities of most relevance
+to our clients that align with their growing appetite
+to invest more sustainably. Our aim is to utilize
+our expertise and market insights to meet these
+demands with differentiated, tailored solutions.
+In some cases, this will be through a bespoke product or offering that meets the need of an
+individual client; but often, we are able to create
+an investment vehicle that we believe will have
+broad appeal.
+As we seek to further leverage our resources,
+relationships, and structuring skills to bring
+additional thematic investable opportunities to
+clients interested in sustainable finance, we
+are aided by attempts, both internal and external,
+to frame the investment landscape. Externally,
+the creation of the UN’s Sustainable Development
+Goals (the SDGs) has provided a basis for a
+shared language and for prioritizing areas of focus.
+Internally, readers of this whitepaper may be
+familiar with the Credit Suisse Supertrends, which
+have identified five secular market trends that
+are expected to transcend economic cycles and
+provide attractive long-term investment returns;
+one of which is “Millennials’ values.”
+The notion of the responsible consumer,
+in line with SDG 12 (Responsible Consumption
+and Production) falls squarely within our
+“Millennials’ values” Supertrend, as Millennials
+are significantly disrupting many traditional
+business models and creating completely new ones
+by increasingly voting with their powerful
+collective wallets. They are demanding a more
+environmentally-friendly, ethical approach to
+business and investment and supporting concepts
+such as the circular economy, which calls for
+the elimination of waste and the continuous use
+of resources in a closed loop system.
+Companies that are prepared and able to respond
+to these demands will attract the Millennial
+dollar and are already showing discernible valuation
+benefits. The recent Initial Public Offerings
+(IPOs) of companies such as The RealReal, the
+first public listing of a consignment clothing business, which traded up 40% within the first trading
+day, and Beyond Meat, the plant-based alternative hamburger business which has been the
+best performing IPO in over two decades,
+are just two examples of companies whose
+business models are fully aligned with the
+responsible consumer. We are proud at Credit
+Suisse to have been a lead underwriter on
+both of these offerings and we look forward to
+continuing to play a meaningful role ahead
+in supporting our clients to “Generate returns.
+Sustainably.”
+Marisa Drew
+CEO, Impact Advisory & Finance (IAF) Department
+6 The responsible consumer – Credit Suisse 7
+Introduction
+The problem is that society is in a global overshoot, consuming more resources than the Earth
+can possibly sustain. The term “environmental
+credit crunch” best articulates our current predicament. Like in finance, credit allows a borrower
+to increase material wellbeing today at the expense
+of future income. In environmental terms, this
+means raising the standard of living of current generations through the consumption of finite
+natural resources. And just as in finance, a credit
+crunch occurs when the act of using credit is
+no longer possible.
+The World Wildlife Fund (WWF) first coined the
+term in early 2008, but it was quickly overshadowed by another, more immediate credit
+crunch – the 2008 financial crisis. As a result,
+instead of winding down its dependence on nature,
+the global community found itself accelerating
+the pace of borrowing, repaying current financial
+debts while accruing a greater and greater
+ecological deficit.
+The results have been concerning. Global greenhouse gas emissions rose to an all-time high
+in 2018, despite international commitments to
+decarbonize. One in four species is now at
+risk of extinction – adding up to approximately
+one million species globally. And the equivalent
+of roughly 30 football fields of tropical forests
+are lost every minute as a result of unsustainable
+agriculture and land-use practices.
+The word “consume” literally means to “destroy,
+as by fire or disease, to squander, to use up.”
+But consumerism need not be so destructive.
+Goal 12 of the United Nations Sustainable
+Development Goals seeks to ensure sustainable
+consumption and production. Achieving this
+goal would do more than just save the planet. It
+could also create vast new economic opportunities. From secondhand fashion to plant-based
+proteins, transitioning to a more sustainable
+consumer economy could unlock USD 4.5 trillion
+in new opportunities per year.
+This report was printed on 100% recycled fibers,
+no trees have been felled. Unlike conventional
+paper production, the process was completely
+chlorine free and used 60% less energy and
+70% less water. It bears the highest quality label
+of recycling paper, “Blauer Engel.”
+The ink printed on this paper is mineral oil free
+and consists only of renewable materials.
+Additionally, with the printing of this publication,
+Credit Suisse supports a carbon offset project
+called “Forest conservation in Pará,” which helps
+conserve of 90,000 hectares of rainforest
+in Brazil. This is an important source of carbon
+reduction (145,000 tons a year).
+Over the past half-century, extreme poverty has shrunk by
+more than half; global infant mortality has plummeted
+by nearly 75%; and the length of schooling for an average
+person has more than doubled. All of this has been
+made possible, in no small part, by consumerism. After all,
+consumerism is the engine that drives our capitalist
+economy, which in turn fuels the economic growth upon
+which investment returns are made. 
+8 The responsible consumer – Credit Suisse 9
+World population
+The size of the world population over the last 12,000 years, in billion
+Source Our World in Data
+7
+8
+0.6 bn in 1700
+0.99 bn in 1800
+1.65 bn in 1900
+2 bn in 1928
+3 bn in 1960
+4 bn in 1975
+5 bn in 1987
+6 bn in 1999
+7 bn in 2011
+7.7 bn in 2019
+3
+6
+2
+5
+1
+10,000 BCE 8,000 BCE 6,000 BCE 4,000 BCE 2,000 BCE 0 2000
+4
+Ecosystems on the brink
+Consumer goods comprise an estimated two thirds
+of global trade by volume, making it one of the
+most important sectors in the global economy. Its
+size comes at a cost: A new study in the Journal
+of Industrial Ecology found that household consumption is responsible for 60% of global
+greenhouse gas emissions and 80% of fresh water
+usage (primarily from agricultural irrigation).
+When taking into account the full value chain –
+from material extraction through to end-oflife – consumer goods drive a bigger share of
+ecosystem losses than any other sector.
+Conventional methods of extraction, production,
+distribution, consumption, and disposal have
+been built around the presumption of cheap and
+unlimited natural resources. From an environmental standpoint, the global consumer goods
+economy is hugely inefficient (see value
+chain on page 10).
+Chapter 1
+Ecological limits
+Demographic pressure rising
+Since farming began in the Fertile Crescent
+around 10,000 years ago, the world’s population
+has increased from approximately 5 million
+to nearly 7.7 billion, and is expected to peak at
+around 9.5 billion by the middle of this century.
+Clearly, population growth comes with its own set
+of inherent challenges. Theoretically, at least,
+more people require more resources, meaning
+that, as the population increases, the Earth’s
+resources deplete more rapidly.
+The reality is somewhat more complicated. While
+all people consume resources, the proportion of
+global resources consumed is largely dependent
+on income. The United Nations Development
+Ecological limits could pose a threat to business continuity
+for consumer goods companies.
+Programme (UNDP) reports that the wealthiest
+20% of the global population account for roughly
+80% of total private expenditure. The poorest
+20%, by contrast, account for less than 2%.
+Economic development has become a doubleedged sword. Over the next twenty years,
+the number of middle-income consumers globally
+is expected to increase by 3 billion people,
+more than tripling the use of natural resources,
+according to the World Resources Institute
+(WRI). As more people escape poverty to join the
+ranks of the middle class, they too are likely to
+use a greater share of the Earth’s limited environmental resources. If population growth is to
+become sustainable in the future, it will require
+a rapid decoupling of consumption from
+environmental depletion.
+Fresh water
+Approximately 1.2 billion people, nearly one-fifth
+of the world’s population, live in water-stressed
+areas. If current trends continue, demand
+for fresh water will exceed viable resources by
+40% by 2030.
+Arable land
+It takes up to 500 years of unimpeded ecological changes for the Earth to produce just 2.5
+centimeters of topsoil. Current rates of erosion
+are 100 times greater than the pace at which soil
+formation can occur. Already, the World Bank
+estimates that up to one-third of the Earth’s arable
+land has been lost.
+Forests
+Forests still cover about 30% of the world’s land
+area, but they are disappearing at an alarming
+rate. An estimated 17% of the Amazon rainforest
+has been destroyed over the past 50 years
+alone. In August 2019, as this paper was being
+written, Brazil had recorded more than 72,000
+forest fires, an 84% increase on the same period
+in 2018.
+Oceans
+90% of global fish stocks are now fully or overfished, gyres covering an estimated 40% of
+the Earth’s ocean surfaces are now full of plastic
+waste which kills an estimated 100,000 marine
+mammals every year; and over the past three
+decades, nearly half of all coral reefs have died.
+Yet by far the biggest threat to world oceans
+is deoxygenation. Ocean dead-zones (areas with
+zero oxygen) have quadrupled in size since the
+1950s, while the number of very low oxygen sites
+has multiplied tenfold.
+The WRI foresees resource use more than
+tripling in the next twenty years. With signs of
+depletion already visible, the business model
+of many consumer goods companies could be
+under threat.
+10 The responsible consumer – Credit Suisse 11
+T-shirt
+blend of
+cotton &
+synthetics
+Smartphone
+Frozen
+shrimp
+454 gram bag
+Plastic
+bottle
+1,000+
+⅕
+¾
+different
+materials
+used to produce a single smartphone.
+2,700 liters
+of water
+bathtubs
+to make a
+single
+T-shirt.
+equal
+to 30
+5 to
+20 kg
+of bycatch is discarded for
+every 1 kg of wild shrimp caught.
+of the world’s oil is used to
+make plastics, equivalent to the
+global aviation sector.
+Reports of slave labor
+in fish peeling sheds in
+Thailand.
+50,000
+homes.
+of industrial water
+pollution stems
+from textile dyeing
+and treatment.
+Globally, the energy required to produce
+and transport plastic water bottles
+could fuel
+ton
+of carbon dioxide is produced
+by a 454 gram bag of
+frozen shrimp.
+of global greenhouse gas emissions
+can be traced back to the apparel
+industry.
+10%
+of energy are used
+by data centers
+each year.
+terawatt
+hours
+1 grams of microplastic –
+also found in shrimp –
+is consumed by an
+average person per
+week. Equivalent to the 5 weight of a
+14
+Recycling rates
+are low:
+of the materials used to make
+clothes end up in landfills or
+are burned.
+Only 1% of old garments are
+turned into new ones.
+1995
+2015
+80 billion
+new pieces of
+clothing a year.
++400%
++300%
+Factories producing semiconductors
+for smartphones use as much energy
+in a year as
+Refining and manufacturing plastic
+resin feedstocks is linked to
+of all hazardous waste in
+landfills is e-waste.
+There is a one in three chance that
+the shrimp will be discarded, along with
+the plastic bag.
+6%
+1 year 70%
+2 million
+=
+
+
+
+
+2 0 0
+removing
+cars from traffic.
+Extending the life
+of all European
+smartphones by
+ 1.5 million
+cars/year.
+cancer +
+leukemia.
+credit card.
+Plastic consumption is expected
+to quadruple by 2050.
+of plastic packaging is collected for recycling.
+Only
+% 2019
+2050
+Source
+see references
+on page 42
+Extraction Production Distribution Consumption Disposal
+Value chain
+12 The responsible consumer – Credit Suisse 13
+Characteristics of Millennials
+Below the age of 35
+Source Credit Suisse
+Characteristics
+of Millennials
+Fun, health, and leisure
+	 sense of work /
+life balance
+	 personal development
+over financial benefits
+	 conscious but
+experience and
+fun-oriented lifestyle
+Global generation
+	 grew up in the world, not in the
+neighborhood
+	 connected to people everywhere
+	 care about peers around the world
+Collectively responsible
+	 embracing sustainability
+	 fighting climate change
+	 fear of terrorism, conflicts,
+crime, corruption, and
+inequality
+Post-modern
+	 grew up in a world
+characterized
+by instability
+	 general sense
+of distrust
+Digital natives
+	 driving force behind global
+digital landscape
+	 tech-savviness
+	 internet culture
+Changing consumer preferences
+Arguably the biggest driver of sustainable consumption trends are, for the time being at least,
+consumers themselves. Globally, two-thirds of
+consumers say they would be willing to pay more
+for sustainable goods, according to a survey by
+Nielsen.
+While interest in sustainability spans generations,
+Millennials (defined by Credit Suisse as those
+below the age of 35) are proving to be a key
+driving force. Despite coming of age in a difficult
+economic climate, survey after survey has shown
+that Millennials are more willing to pay more for
+sustainable goods than previous generations. As
+they become an increasingly influential consumer
+group, demand for sustainable products is likely
+to increase considerably.
+This has real world implications. Another study by
+Nielsen into the purchases of common fastmoving consumer goods found that products with
+sustainability claims generally outperformed
+the growth rate of total products in their respective categories.
+The costs of unsustainable production models
+are not just environmental, however. They also
+come at a heavy toll to the global economy.
+Biodiversity losses alone could cost USD 14 trillion
+per year by 2050 – around 17% of world GDP,
+according to a study published in the journal
+Current Opinion in Environmental Sustainability.
+A number of forces are converging that are
+making sustainable production and consumption
+not only more attractive as a business model
+but increasingly inevitable:
+Legal & regulatory pressure on the rise
+The failure to factor the cost of environmental
+externalities into the final price of goods sold is a
+classic example of a market failure. And as with
+any market failure, the government can play an
+important role in rectifying imbalances.
+Since the 1970s, the world has witnessed a
+38-fold increase in environmental laws, according
+to analysis by the United Nations Environmental
+Programme. Increasingly, the consumer goods
+sector is finding itself under heightened regulatory
+scrutiny. To highlight just a few recent examples:
+ȷ The European Union’s Circular Economy
+Package, which established binding targets for
+recycling of municipal waste, was approved
+in June 2018. Member states now have 24
+months to transpose the directives into national
+legislation. Over 127 countries globally have
+at least some form of legislation to regulate
+plastics, while 27 have advanced plastics
+regulations.
+ȷ In 2019, the Chinese Ministry of Ecology and
+Environment announced that it would expand
+its ban on waste imports to include postconsumer plastics such as shampoo or soda
+bottles. Other waste-importing countries, such
+as Thailand, Malaysia, Vietnam, and Indonesia,
+have announced similar bans. This has put a
+serious strain on waste-exporting countries.
+ȷ South Australia has since announced plans
+to ban plastic straws, cutlery, and drink stirrers
+in an effort to curb single-use plastic use.
+ȷ The United States is considering a bill that
+would ban dozens of toxic substances from
+consumer cosmetics – including asbestos, lead,
+formaldehyde, toluene, triclosan, PFAS
+chemicals, and certain parabens and phthalates.
+Many of these substances have already
+been banned in Europe and other countries
+around the world (see page 33 for health
+effects of common cosmetics ingredients).
+The increasing number of environmental
+regulations around the world has also given rise
+to a new class of litigation. Globally, close to
+1,000 climate change-related cases have been
+filed to date, according to White & Case.
+While the damages accrued to private companies
+have so far been limited, legal experts are highlighting parallels between the current onslaught
+of environmental litigation and tobacco claims
+of previous decades.
+Taken together, it is reasonable to assume that
+the rise of regulations, legislation, and litigation
+will make the cost of unsustainable production
+increasingly expensive going forward.
+Growing regulatory pressure, investor interest, and
+consumer demand make the industry ripe for disruption.
+Chapter 2
+Forces of change
+14 The responsible consumer – Credit Suisse 15
+Growth in ESG activism
+Number of environmental, social and governance (ESG) related campaigns 2007– 2019 (1H)
+2007
+2011
+2015
+2008
+2012
+2016
+2009
+2013
+2017
+2010
+2014
+2018
+2019 1H
+5
+20 40 60 80
+17
+38
+3
+32
+55
+14
+18
+78
+11
+24
+63
+59
+Source Activist Insight
+Interview: A view from Asia
+In your opinion, are consumers
+in Asia less or more willing to
+shop sustainably?
+We tend to assume that middleclass consumers in North
+America and Europe are more likely
+to shop sustainably, but these
+assumptions don’t necessarily hold
+true. Studies have found that
+consumers in Asia are actually more
+willing to pay more for goods
+and services from socially responsible companies (64%) than
+consumers in Europe and North
+America (42% and 40%, respectively). As well, China and India
+account for a large share of the
+world’s Millennials – and we know
+they are more likely to shop
+sustainably.
+How are governments in
+Asia shaping the responsible
+consumer transition?
+Consumer interest is growing,
+but governments are still leading
+the transition in Asia. India’s
+government announced this year
+that it would spend close to
+USD 1.5 billion to subsidize hybrid
+and electric cars and buses,
+aiming to see electric vehicles (EVs)
+make up 15% of domestic
+sales in five years. There are now
+one million electric rickshaws
+in the country, transporting around
+60 million people a day.
+Governments are often inspired to
+act in the face of public pressure.
+China’s recent Five-Year Plan, for
+example, born in part from growing public awareness concerning
+the harmful effects of air pollution,
+which is responsible for more than
+one million premature deaths a
+year in China.
+How are companies
+responding?
+A large tech player in China now
+incentivizes responsible consumption by linking the payment
+of green products or services
+with green credits that its 500 million
+users are using to plant trees in
+China. More than 100 million such
+trees have been planted so far.
+This is more than Corporate Social
+Responsibility, it is business
+recognizing that consumers want to
+do good with their purchases,
+in a way that can be lucrative for
+companies.
+Impact Advisory & Finance Department APAC, Credit Suisse
+Investors take note
+As part owners, investors are important stakeholders in a company. They drive the stock price
+upon which management incentives are often
+based and determine the price and ease of access
+to capital.
+Perhaps unsurprisingly given the proliferation of
+policy interventions and consumer interest in this
+space, investors are expressing a greater interest in sustainable investing. Since 2012, reported
+assets under management in sustainable
+investment strategies have risen from USD 11
+trillion to USD 31 trillion in 2018, as stated
+by the Global Sustainable Investment Alliance.
+Likewise, the Global Impact Investing Network
+estimates that impact investments, a subset
+of sustainable investments that focus on investing
+in companies and projects with measurable
+environmental and social benefits, has grown
+from USD 8 billion to USD 502 billion.
+Shareholder activism, in particular, can play an
+important role in pushing companies to adopt
+more sustainable policies. According to Activist
+Insight, the number of shareholder campaigns
+related to environmental, social and governance
+themes has increased twenty-fold since 2007.
+In 2019, for example, a coalition of investors worth
+a combined USD 6.5 trillion challenged fast
+food companies to put robust targets in place to
+limit negative environmental impacts of meat
+and dairy supply chains. Likewise, another coalition
+of investors helped convince one of the largest
+commodity companies in the world to cap coal production at current levels and to prioritize investments in green technologies.
+If successful, shareholder activism can also have
+a positive effect on financial returns. A 2012
+study by Dimson et al. found that successful shareholder engagement on environmental, social
+and governance issues resulted in 4.4% higher
+returns, on average.
+Governments are often
+inspired to act in the face
+of public pressure.
+16 The responsible consumer – Credit Suisse 17
+Millennial exposure boosts stocks
+Companies catering to Millennial tastes outperform
+Indxx Millennials Thematic Index S&P 500 Source Bloomberg
+180
+160
+140
+120
+100
+2016 2017 2018 2019
+of the 78 million metric tons of
+plastic packaging is recycled.
+Room for improvement
+Recycled plastic packaging
+14%
+From cosmetics to fashion, most
+consumer sectors covered in
+this report rely on packaging. Of the
+78 million metric tons of plastic
+packaging produced each year, a
+mere 14% is recycled, according
+to the Ellen MacArthur Foundation.
+An estimated 8 million metric tons
+end up in the world’s oceans every
+year. Without urgent action, the
+WWF estimates that the volume of
+plastic waste could double by 2030.
+Many companies are responding
+to the global plastics crisis by
+promising to increase their share of
+packaging from recycled plastics.
+Yet while efforts to improve recycling
+would ease some of the problems
+associated with plastic pollution, it is
+no panacea. Recycling still requires
+large amounts of energy, water, and
+fossil fuels.
+Bioplastics may be another solution
+to the global plastics crisis.
+Examples include plastics derived
+from wood pulp, crustacean
+shells, corn, or sugarcane rather than
+petroleum. With an estimated 8%
+of the world’s oil used to make
+plastics (more than the oil consumption of the global aviation sector),
+advocates argue that they could
+help to reduce greenhouse gas
+emissions from fossil fuels. However, not all bioplastics are created
+equal, and critics have pointed out
+that, if improperly discarded,
+bioplastics could increase greenhouse gas emissions and worsen
+the global plastics crisis. This is
+because most bioplastics are not in
+fact biodegradable. Instead, they
+may require high temperature industrial composting facilities to be
+broken down, infrastructure which
+most cities lack. In landfills, bioplastics release methane, a greenhouse
+gas 23 times more potent than
+carbon dioxide. By contrast,
+compostable plastics, a subset of
+bioplastics, largely degrade within
+180 days inside industrial compost
+facilities.
+Globally, the number of government
+policies directed at tackling the
+use of single-use plastics has been
+on a steep incline – rising from
+two at the turn of the millennium
+to 202 in 2018, according to
+Credit Suisse analysis. With growing
+pressure from consumers and
+policy makers, companies (and their
+investors) are racing to find the
+next alternative. One large chemical
+company is turning plastics back
+into oil, for example, while a US pizza
+company found its materials
+business quickly surpassed revenues
+from food after it acquired a
+compostable packaging start-up.
+The best solution to the global
+plastics crisis could be to reduce
+the need for plastic packaging
+altogether. In the United States, for
+example, one company is using
+a high definition laser to remove
+pigment from the outer layer of
+fruit and vegetable peels, leaving a
+permanent mark in lieu of plastic
+labels. Another large multinational is
+introducing highly concentrated
+refills for home cleaning products,
+eliminating the need to re-purchase
+trigger spray bottles with every
+use. And retailers around the world
+are implementing bans on singleuse plastic bags. Consumers can also
+play an important role in becoming less dependent on plastic
+packaging. From Brooklyn to
+Kuala Lumpur, zero waste shops
+are gaining momentum. These
+shops cater to a growing consumer
+movement that seeks to do away
+with packaging. Instead, shoppers
+bring their own containers to
+stock up on consumer staples like
+flour, raisins, oil, or shampoo.
+With growing demand from consumers and
+investors, increasing pressure from regulators and
+proliferating signs of resource depletion, the
+consumer goods economy is ripe for disruption.
+Much research has focused on the relationship
+between environmental, social and governance (ESG) factors and financial performance.
+Unlocking the opportunities associated with
+responsible consumption, however, means looking
+beyond standard measures of corporate responsibility (such as employee wages or gender
+equality) to real business-model transformation.
+For investors, this represents a clear opportunity. In 2019, products marketed as sustainable experienced market growth 5.6 times
+faster than non-sustainable alternatives, according
+to a study by New York University’s Center for
+Sustainable Business. Likewise, companies
+catering to Millennial tastes, including demand
+for sustainable products, have generally
+outperformed their peers since 2016.
+The market is in the early stages of transition,
+driven by both push factors (resource depletion
+and regulatory pressure) and pull factors
+(growing consumer demand). This represents a
+unique opportunity for investors. Companies
+that are quick to adapt to this new reality are likely
+to benefit from an early mover advantage. A
+recent study by Accenture shows that the transition
+to a more circular economy – one that minimizes waste and makes the most use of existing
+resource – could represent a USD 4.5 trillion
+per annum opportunity by 2030.
+Chapter 3
+The opportunity
+The transition to a more sustainable consumer economy
+represents an enormous opportunity for investors.
+A note on plastics
+18 The responsible consumer – Credit Suisse 19
+Fashion accounts for
+more than 20% of global
+industrial water pollution.
+Consumer appetite for the latest trends alongside
+rising global income levels have led to a rapid
+increase in clothing sales. The USD 1.7 trillion
+garment industry is the world’s third biggest
+manufacturing industry after the automotive and
+the technology industries. It is also of vital
+importance to the economies of many developing
+countries.
+Rising consumption may create growth in jobs in
+developing countries, but it also saddles these
+countries with the brunt of the environmental and
+social burden. Despite efforts to curb sweatshop conditions in the industry, a recent Oxfam
+report found that workers in Bangladesh and
+Vietnam, which supply a significant share of the
+world’s clothes, did not earn enough to afford basic
+essentials like housing, healthcare, or education.
+In addition to the social costs, rising consumption
+of apparel also comes at enormous environmental
+costs. The chemicals used to bleach, treat, and
+brighten the world’s clothes have been linked to
+tuberculosis, birth defects, and reproductive
+problems. According to the United Nations
+Economic Commission for Europe, fashion accounts for more than 20% of global industrial
+water pollution. It is also one of the biggest contributors to climate change, consuming more
+energy than the international aviation and shipping
+industries combined.
+The tragedy is that these burdens on human
+health and the environment are almost completely
+unnecessary. Nearly three-quarters of the
+materials used to make clothes end up in landfills
+or are burned at the end of their life, while
+just 1% of old garments are turned into new ones.
+With global apparel consumption projected to
+increase by 63% by 2030, according to a recent
+report by the Global Fashion Agenda and Boston
+Consulting Group, significant changes will need
+to be made in how clothing is produced and
+consumed. There are signs that change may be
+underway. At the heart of the industry’s woes
+is “fast-fashion,” a business model built around
+producing clothes as cheaply and rapidly as
+possible. But growing awareness concerning the
+environmental and human consequences of
+fast fashion is leading to a change in consumer
+expectations. From “more for less” to “less is
+more,” consumers are starting to think more consciously about their purchasing decisions.
+According to a 2018 study by GlobalData, 72%
+of consumers polled prefer to buy from environmentally friendly fashion brands, a fifteen
+point increase from 2013.
+As sustainability becomes a crucial buying factor
+for mass-market consumers, the opportunity
+for investors could be significant:
+ȷ Regenerative materials
+Crops grown to supply the growing apparel
+industry, including cotton, linen, hemp, and
+indigo, are some of the most polluting in
+the world. Cotton is a case in point: One tenth
+of all agricultural chemicals and 25% of
+pesticides are used to produce the world’s
+(non-organic) cotton, which comprises less
+than 3% of the world’s agricultural land by area.
+Fashion brands are looking to sustainable
+agriculture to curb these negative effects. One
+promising example is regenerative agriculture,
+a type of organic agriculture that seeks to
+restore degraded land through practices such
+as no tillage, crop rotation, or on-farm fertility.
+Research from the Rodale Institute indicates
+that the resulting carbon sequestration could
+help to reverse the effects of climate change.
+While regenerative farming has gained most
+significant traction in the natural food space (see
+page 26), fashion brands are making serious
+inroads as well. At the time of writing, five textile
+and fashion brands were partnering on a
+Regenerative Organic Certification standard to
+ease the process of identifying suppliers.
+If rolled out on a global scale, efforts like these
+could significantly improve the human, soil,
+and climate impacts of clothing supply chains
+around the world.
+Fashion
+Chapter 3: The opportunity
+20 The responsible consumer – Credit Suisse 21
+Secondhand market will reach USD 51 billion in 5 years
+Size of the United States secondhand apparel market in billion USD
+Resale Thrift & donations Total secondhand apparel market Source ThredUp 2019 Resale Report
+2012
+20
+30
+50
+40
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023
+11 13 16 19 22
+5
+7
+24
+51
+10
+13
+17
+23
+12 14 17 21 24 26 28
+The secondhand clothing
+market is expected
+to double in size over the
+next five years.
+ȷ Alternative fabrics
+While organic materials such as cotton, linen,
+hemp, or viscose have been linked to myriad
+environmental and social challenges, synthetic
+materials like nylon or polyester have fared
+little better. These materials are often treated
+with thousands of harmful chemicals, making
+them even more toxic than their non-synthetic
+counterparts. The manufacture of nylon, for
+example, creates nitrous oxide, a greenhouse
+gas 310 times more potent than carbon dioxide.
+High-end fashion and sportswear brands have
+started to take an interest in eco-friendly
+alternative fabrics. Examples include liquid silks
+that use biogenetic engineering to replicate
+the DNA of spider silk, yarn from coffee grounds
+and recycled plastic, vegan leather made
+from mushrooms, or technologies geared to
+changing the molecular composition of
+polyester – making it more digestible for
+microbes to consume.
+ȷ Radical transparency
+Reports of environmental harm, sweatshop
+conditions, as well as child labor have eroded
+consumer trust in the mainstream fashion
+industry. With social media making it increasingly difficult for brands to control their
+message across borders, today’s consumers
+are more likely than ever to research the
+brands they buy. A study by McKinsey shows
+that Millennials are at the forefront of this
+movement, with 52% saying that they always
+research brands for background information before making a purchasing decision,
+compared to 45% of Gen Z and 41% of
+Baby Boomer consumers.
+In an effort to regain trust, several fashion
+brands are introducing “radical transparency”
+across their supply chains. Innovations
+include Radio-Frequency Identification (RFID)
+tags in the form of threads that can be
+integrated in textiles to track materials across
+the entire lifecycle, using blockchain to
+track clothing from raw material to consumer,
+or genotyping to trace the source of
+cotton fibers to specific regions.
+For fashion brands, innovations like these
+are making it easier to monitor potential
+violations of environmental and social norms
+across their supply chain. For consumers,
+radical transparency means that the public
+can hold companies to account for their
+claims – mitigating the risk of greenwashing
+and accelerating the sustainable transition.
+ȷ Resale, refurbishment & rental
+In the UK alone, consumers have unworn
+clothes worth an estimated GBP 30 billion lying
+in their closets, as stated by WRAP. Secondhand markets extend the lifecycle of garments,
+reducing the total volume of clothing that
+eventually finds its way to a landfill. According
+to research by ThredUP (in conjunction with
+GlobalData), the secondhand clothing market
+is expected to double in size over the next
+five years and could reach a staggering USD
+51 billion in the United States alone by 2024.
+Online resale companies are helping
+these brick-and-mortar shops find a wider
+audience online.
+Other examples of secondhand business models
+include clothing refurbishment and rental
+models – the latter of which caters to the human
+desire for “new things” without the associated waste. More than a quarter of consumers
+expect to increase their spending in fashion
+rental over the next five years, four times the
+number of consumers who say they will
+increase their spending in fast fashion.
+Whether resale, refurbishment, or rental, the
+rapid rise in secondhand business models has
+come at a direct cost to established brands.
+ȷ Slow fashion
+Growing consumer awareness concerning
+the environmental and human consequences
+of fast fashion has led to a new movement
+in fashion – slow fashion. The antithesis to fast
+fashion, slow fashion’s emphasis is on
+“buying less, but better.”
+Companies are catering to this new movement by rejecting mass production, instead
+emphasizing “fewer, better things.” In 2011,
+for example, one outdoor sportswear brand
+published a provocative marketing campaign
+with the slogan “Don’t buy this jacket,” listing
+in detail the adverse environmental impacts
+associated with producing the jacket in question.
+Within a year, sales increased by nearly
+one-third. In an interview with the New York
+Times, the company’s CEO explained that
+the brand’s value proposition, putting “value in
+vogue,” had struck a chord with a small
+but growing cohort of sustainably-conscious
+consumers.
+22 The responsible consumer – Credit Suisse 23
+The e-waste trash stream could fill
+up more than a million 18-wheel trucks
+stretching from New York to Bangkok
+and back.
+Capturing this opportunity will mean reconsidering traditional business models. While the
+industry has been slow to respond, there are
+signs of change:
+ȷ Dematerialization
+Planned obsolescence refers to a strategy in
+which products are designed to artificially
+limit the number of years they will be used for.
+From the perspective of producers, planned
+obsolescence makes a lot of sense. The quicker
+a device needs replacement, the sooner a
+consumer will buy a new one, the higher the
+revenues incurred from sales.
+One solution could be to move away from
+business models based on the sale of physical
+products to ones based on a service – a
+process known as dematerialization. As a paper
+by WEF points out, dematerialization is
+already happening in many parts of the economy.
+In the Netherlands, for example, one company has started selling lighting as a service.
+Similarly, several companies are rolling out
+smartphone leasing programs around the world.
+Rather than shorten the lifetime of products,
+dematerialization incentivizes producers to
+prolong the life of the devices they sell – creating
+a synergy between corporate and environmental interests.
+ȷ Modular devices
+When a single component in an electronic
+device wears out, it is often cheaper and easier
+to replace the entire device than to repair
+the single component. As a result, the lifetime
+of the device is limited to the component
+with the shortest lifespan.
+One solution could be modular devices in which
+individual components can be taken apart
+and replaced when needed. A Dutch smartphone producer, for example, has carved
+out a niche for itself with pieces that can be
+inexpensively bought and replaced. There
+are signs that the model may be influencing
+larger market players, several of which have
+experimented with modular phones, with one
+market leader having published at least two
+new modular device patents in 2019.
+ȷ Reuse & refurbish
+Like in fashion, secondhand markets for
+electronics promise to keep electronics device
+in use longer. One British telecom company,
+for example, has announced a recycling program
+whereby the company buys old smartphones
+from customers and refurbishes them for resale,
+mostly in mainland Europe. According to the
+company, the program has reduced the equivalent of 10,000 tons of carbon emissions
+and saved over 26 million liters of water in just
+four years.
+Similarly, as pointed out in a report by the
+Ellen MacArthur Foundation, the “cascading
+of components” – the process of reusing
+functional components from higher-performance
+applications to lower ones – could help
+avoid negative environmental impacts and keep
+components in use for longer. While a lack
+of standardization has largely hindered the widespread adoption of this practice, some
+companies have started to experiment with
+cascading models.
+ȷ Mining for electronic waste
+As already noted, e-waste contains a treasure
+trove of high-value and increasingly scarce
+raw materials. The challenge, of course, is to
+extract these materials: A single smartphone
+may contain well over 1,000 different substances.
+Yet difficult does not mean impossible, and
+new technologies are making the extraction of
+these resources increasingly viable. According
+to the WEF, one recycler in China claims to recover more cobalt from recycled e-waste than
+the country mines in a year. As pressure mounts
+on producers of electronic devices to reduce
+environmental externalities, it is fair to assume
+that the market for recovered materials will grow.
+Compared to the other industries in this report,
+the electronics industry has been slow to
+respond to consumer demand for more sustainable products. At least in part, this may be
+attributable to the high barriers to entry in the
+consumer electronics space, which make
+it difficult for incumbents to compete with larger
+market players. Ironically, an industry so bent
+on disruption is finding disruption incredibly difficult
+to achieve. Nevertheless, with consumer
+demand on the rise, the opportunity for solutions
+that fill this market gap could be significant.
+Consumer electronics
+By 2025, the number of electronic devices
+connected to the internet is expected to surpass
+the number of people on the planet by a
+multiple of ten. The economic potential of these
+devices is staggering: In 2017, the global
+consumer electronics market was valued at an
+estimated USD 1.1 trillion. By 2024, Zion
+market research predicts that this number might
+exceed USD 1.7 trillion.
+Unfortunately, the e-waste trash stream –
+from fridges and computers to smartphones and
+hair dryers – is expanding at the fastest rate,
+nearly doubling in volume over the past nine years.
+The yearly accumulation in 2018 alone was
+49.8 million tons, according to the Partnership for
+Action on Computing Equipment (PACE). As
+pointed out in an article in the New York Times,
+this would be equivalent to more than a million
+18-wheel trucks stretching from New York
+to Bangkok and back. The lion’s share of this
+waste ends up in landfills or is improperly
+discarded in the informal economy.
+Depending on how e-waste is handled, however,
+it could represent either an environmental burden
+or economic resource. Many of the same
+materials that make electronic devices so toxic
+and difficult to recycle are also increasingly
+scarce and economically valuable. For example,
+a recent study by the University of Plymouth
+found that a ton of smartphones contains 100
+times more gold than a ton of gold ore. The
+World Economic Forum (WEF) states that the
+material value of our electronic waste could
+be an astounding USD 62.5 billion annually,
+more than the GDP of most countries.
+Chapter 3: The opportunity
+24 The responsible consumer – Credit Suisse 25
++20%
+Smart farming
+Reducing resources
+Improving
+yields
+Conventional farming Smart farming
+There could also be a significant opportunity for
+investors. Consumer interest in sustainable
+food is on the rise. In a 2017 study conducted
+by Berkley, food products with sustainability
+and traceability claims exceeded all other new
+product themes, including portion control,
+flavor, nutritional value, or ease of preparation. In
+another recent survey, commissioned by the
+European Union Commission Directorate General
+for Trade, 98% of food retailers in Europe
+reported that sales of sustainable products had
+increased over the past five years, growing
+by close to 20% overall.
+With over half of consumers saying they would
+prefer to buy foods that are produced in an
+environmentally sustainable way, the opportunity
+for investors could be meaningful.
+Tech-savvy farms
+Water scarcity, climate change, population
+growth, and less arable land available per capita:
+the future of food will depend on agriculture’s
+ability to do more with less. From drones to satellite
+images and indoor farms, farmers are increasingly making use of technological innovations to
+do just that.
+Smart farming, a diverse set of tools and
+practices that use information communication
+technologies in agriculture, can measure crop
+and soil characteristics of fields to within several
+inches of accuracy, enabling farmers to better
+gauge exactly how and when different parts of a
+field need to be watered, fertilized, and harvested. This has the potential to drastically reduce
+resource use while improving yields by as
+much as 20%.
+Other companies are focusing on applying
+engineering principles to biology, an emerging field
+known as synthetic biology. In agriculture,
+synthetic biology promises to redesign biological
+systems that are better adapted to a rapidly
+changing climate. Proponents claim that welldesigned synthetic systems could even reverse
+some of the harmful effects of agriculture. One
+US-based startup, for example, produces
+microbes that can be directly applied to crops in
+order to produce nitrogen, eliminating the need
+for synthetic fertilizers altogether. Another company
+uses wastewater from breweries and beverage
+plants to cultivate bacteria that it then turns into
+protein meal for fish feed, eliminating the need
+to catch wild fish to feed farmed fish (one of the
+biggest critiques of aquaculture).
+Food & beverage
+Agriculture accounts for over 70% of fresh
+water usage and 80% of tropical deforestation,
+according to the United Nations Food and
+Agriculture Organization (UN FAO). It is also one
+of the biggest contributors to ocean deoxygenation, soil degradation, and climate change. With
+the WRI estimating that agricultural output
+will need to increase by over 50% over coming
+decades to feed a growing population, it is
+becoming increasingly clear that the world will
+need to rethink what and how it eats.
+The environmental and social payoff for doing
+so could be significant. Of the world’s poor, 70%
+are smallholder farmers, most of them women,
+according to the World Bank. Transitioning to a
+more sustainable food system could ensure a
+more equitable distribution of profits – contributing
+to other sustainable development goals such
+as ending world hunger, reducing poverty, and
+improving gender equality. Some scientists
+believe that sustainable agricultural practices such
+as regenerative agriculture could reverse global
+warming completely while replenishing the soil of
+nutrients, bringing back old species of plants
+and animals, and enhancing the ability of soils to
+store water – thereby reducing agriculture’s
+heavy water footprint and making crops more
+resilient to drought and heavy rainfall. Likewise, sustainable fishing practices could replenish
+depleted oceans – allowing fish stocks and
+other marine species to recover while improving
+the lives of the 950 million or so people who
+rely on the seas for their livelihoods.
+Agricultural output will need to increase
+by over 50% over coming decades to
+feed a growing population.
+Chapter 3: The opportunity
+26 The responsible consumer – Credit Suisse 27 ⅓
+of the food is lost or wasted annually.
+This is costing USD 2.6 trillion per year.
+What a waste
+Annual food loss
+A sustainable diet
+The planetary health plate
+Source EAT Foundation
+Whole
+grains Fruit &
+vegetables
+Starchy
+vegetables
+Dairy
+foods
+Animal-sourced
+protein
+Unsaturated
+plant oils
+Plant-sourced
+protein
+Added
+sugar
+In 2019, the EAT Lancet Commission quantitatively described a universal healthy reference diet, addressing the need to
+feed a growing global population while also defining sustainable food systems that will minimize damage to our planet.
+While a small amount of meat is still on the plate, the Commission's finding showed that developed countries would need
+to cut meat consumption by 80% and developing countries by 50%.
+ȷ Urban & indoor
+With over three-quarters of the world’s popula
+-
+tion expected to live in cities by the middle
+of the century, some food and beverage companies are focusing their efforts closer to
+home. Indoor & urban farms have been touted
+as a potential solution to feeding a growing
+population in the future. Alternative grow systems
+like hydroponic, aeroponic, or vertical farms
+can grow crops without soil, sunlight, or large
+amounts of water – reducing agriculture
+inputs such as water by 70% or more.
+If fully implemented in cities around the world,
+urban agriculture could produce as much
+as 180 million metric tons of food each year,
+according to a recent study published in
+the journal Earth’s Future. This would amount
+to approximately 10% of the global output
+of legumes, root vegetables and vegetable
+crops. Taken together, the additional eco
+-
+systems services associated with urban agriculture, which include reducing the urban
+heat-island effect, avoiding storm water runoff,
+nitrogen fixation, and pest control, could be
+worth as much as USD 160 billion per year.
+ȷ Regenerative & organic
+Concerns about the adverse ecological and
+health effects of pesticides have led to a
+growing demand for organic foods. Organo
+-
+phosphorus – a compound commonly used
+in pesticides – has been linked to a number of
+developmental problems, including autism and
+Attention Deficit Hyperactivity Disorder (ADHD).
+There is also a growing consensus that the
+pesticides, fertilizers, and other chemicals used
+in industrial agriculture are wreaking ecological
+havoc on oceans, wildlife, and climate. With
+public opinion galvanized, sales of organic food
+have been on the rise. According to Ecovia
+Intelligence, worldwide organic food and drink
+sales surpassed USD 100 billion for the first
+time in 2018, a 6% increase from 2017.
+Some critics argue that, since organic
+agriculture requires more land for the same
+yield, organic foods may not be a viable
+solution to feed a growing planet. Regenerative
+farming could provide an alternative. The
+term refers to a system of farming practices
+(usually organic) that aim to capture carbon
+in the soil while increasing biodiversity, improving
+watersheds and enhancing ecosystem services. Unlike traditional sustainable farming
+practices that seek to reduce harm, rege
+-
+nerative agriculture promises to actively reverse
+damage to soil, water and air quality. With
+one-third of land once used for farming now
+abandoned, regenerative farming could
+prove key to reducing agricultural expansion in
+the future, according to a study by the
+University of Sheffield.
+ȷ Minimizing food losses
+Roughly one-third of the food produced for
+human consumption is lost or wasted annually.
+This is a massive problem, with the UN FAO
+estimating that costs to the global could be as
+high as USD 2.6 trillion per year.
+A report by the Boston Consulting Group
+showed that reducing food loss through improvements in supply chain infrastructure and
+efficiency alone could save an estimated USD
+270 billion per year. Examples include an
+invisible coating from plant-derived materials
+that can help postpone spoilage of fresh
+produce or software that can track where waste
+occurs. In one company, using waste-tracking
+software helped to reduce the amount of
+waste headed for landfills by as much as 65%
+within the first year.
+Other innovations focus on reducing food losses
+in developing countries, where approximately
+half of all food losses occur. While food waste
+in developing and industrialized countries is
+equally high, most of the food loss in developing
+countries occurs at post-harvest and processing
+levels. Some of the most basic fixes to food
+waste could therefore be at the bottom end of
+the food supply chain: metal grain silos have
+helped against fungus ruining grain stocks while
+replacing sacks with crates could reduce
+tomato spoilage. One public-private partnership
+in Kenya, for example, was able to more
+than double the amount of food purchased from
+smallholder farmers through “pay as you
+store” solar-powered refrigeration units.
+Finally, some companies are focusing on
+innovative ways to upcycle food waste into food
+and other products. Examples include con
+-
+verting used coffee grains into logs and biomass
+pallets or upcycling food waste into new food
+products (such as snacks made from chicken
+breast trims, vegetable puree, and other
+leftover food products). As more and more initiatives like these emerge, what was once
+dismissed as waste could eventually become a
+valuable asset in its own right.
+ȷ Plant-based diets
+According to a new study led by researchers
+at the University of Oxford, if all humans were
+to convert to a plant-based diet, global
+farmland use could be reduced by more than
+75% – an area equivalent to the US, China,
+the European Union, and Australia combined.
+Doing so, the researchers concluded, would
+significantly curb deforestation, biodiversity
+losses, and mass extinctions. Livestock uses
+83% of the world’s farmland, but provides just
+18% of the world’s calories. It is also responsible
+for 18% of global greenhouse gas emissions,
+more than all forms of transport put together.
+In addition, research by the American Heart
+Association has shown that a plant-forward diet
+(one in which at least 70% of meals do not
+contain meat) could lead to a significant reduction
+in deaths from heart attacks, stroke, and
+other cardiovascular diseases.
+Considering the environmental and health
+benefits, it is perhaps not surprising that consumers (in high-income countries at least)
+are expressing a greater interest in diversifying
+their diets, reducing meat consumption and
+eating more plant-based foods. According to
+research by Mintel, sales of meat-free foods
+in the UK alone increased by 22% between
+2013 and 2018. This growth is expected to
+continue, with the value-sales of the meat-free
+market forecast to increase by another 44%
+by 2023.
+28 The responsible consumer – Credit Suisse 29
+Mobility
+As pointed out in an article by Elizabeth Kolbert
+in the New Yorker, the most popular mode
+of transport in most western cities in the mideighteen hundreds was the horse-drawn
+streetcar. By 1880, there were more than 150,000
+horses living in New York City alone, each
+producing an average of 22 pounds of manure
+per day. Urban planners warned that, without
+urgent action, cities across the world would soon
+be “inundated with poop.” Then, around the
+turn of the 19th century, almost without comment
+or deliberation, the crisis passed. By 1912,
+automobiles outnumbered horses in New York.
+Today, the world’s transportation systems are
+facing a new challenge: climate change. From
+airplanes to automobiles, what fuels global
+transportation is, for the most part, fossil fuels.
+The global transportation sector is responsible
+for an estimated 14% of global greenhouse gas
+emissions. Without aggressive and sustained
+policies, the United Nations Framework Convention on Climate Change estimates that these
+emissions will double by 2050.
+Added to this challenge is traffic congestion. The
+urban population has increased fourfold over
+the past 50 years. At the same time, the stock of
+passenger cars and motorbikes has increased
+sixfold. Nine out of ten people now live in places
+where air quality has fallen below healthy limits,
+according to the World Health Organization. As
+many as seven million people die each year as
+a result. Without urgent changes in how and what
+the world moves, global cities will, quite literally,
+become suffocating places to live.
+Some critics have questioned
+whether EVs are more sustainable
+than conventional combustion
+engine-powered cars. Manufacturing
+EVs requires more aluminum (in
+order to offset the additional weight
+of batteries), more copper (to
+conduct electricity) and more lithium
+and rare earth minerals than
+non-electric alternatives. This means
+that more greenhouse gases are
+emitted during the production of EVs
+than of conventional (non-electric)
+alternatives.
+To answer this question, the
+International Reference Center for
+the Life Cycle of Products, Processes and Services (CIRAIG) conducted an environmental life cycle
+assessment of EVs’ inputs, outputs,
+and environmental impacts –
+from material extraction to end of life.
+Perhaps unsurprisingly, the study
+found that an EV is only as clean as
+the power grid used to recharge it.
+Yet even with the cleanest grid mix,
+the distance an EV is driven relative
+to a conventional vehicle ultimately
+determines whether it is
+environmentally worth making the
+switch. In Quebec, for example,
+which derives 99% of its power
+from renewable energy sources, a
+car would need to drive more than
+50,000 kilometers before it
+would outdo a traditional vehicle, at
+least in terms of greenhouse
+gases. By contrast, in Germany,
+where fossil fuels still comprise
+a large portion of the country’s total
+energy mix, a car would need to
+drive at least 150,000 kilometers
+before it would become environmentally viable to make the leap.
+Contrarian corner: Are electric vehicles sustainable?
+The global transportation
+sector is responsible
+for an estimated 14% of
+global greenhouse gas
+emissions.
+Chapter 3: The opportunity
+30 The responsible consumer – Credit Suisse 31
+Time to shift
+Renewable energy as a share of total power generation capacity
+Source IRENA, Credit Suisse
+80%
+40%
+50%
+60%
+30%
+20%
+70%
+10%
+2010 2030
+Germany UK France Italy G20 US China UAE S.Arabia Russia
+As with the horse-drawn streetcar just one
+century ago, however, technological innovations
+are disrupting the future of mobility. From
+electrification to the internet of things (IoT),
+numerous trends are converging to help ease
+the transition toward cleaner transportation:
+ȷ Electrification
+Think about the future of mobility and one
+word will likely come to mind: electric.
+From fully battery powered to hybrid vehicles,
+electric mobility is expanding at a rapid pace.
+In 2018, according to the International Energy
+Agency, there were more than five million
+electric cars on the road, up from just two million
+the previous year. In terms of sales, the
+number of new electric cars sold across the
+world nearly doubled.
+Electrification is driven by a combination of
+policy initiatives and technological innovations. In
+an effort to curb pollution, China introduced
+subsidies for EVs in 2010 and made it more
+difficult for consumers to get license plates
+for combustion engines. It is now the world’s
+largest market for electric cars. Similarly, in
+2018, the European Union approved several
+significant policy instruments to support
+growth in the EV market, including new fuel
+economy standards, incentives to support
+the rollout of EV chargers, and public procurement of electric buses. Major European
+cities like Paris, Madrid, Oslo, Brussels, Berlin,
+Hamburg, and Stuttgart plan to ban all
+vehicles except electric ones from their city
+centers by 2030.
+Another key driver of growth in the EV market is
+innovation. Since 2010, the average cost of
+lithium-ion batteries has fallen by 85% and is
+expected to drop even further in the coming
+decade, driven by scale, improvements in
+battery chemistry, and better battery management systems. By 2022, Bloomberg New
+Energy Finance estimates that the cost of
+electric cars will fall below that of internal
+combustion vehicles.
+ȷ Shared mobility
+From Shanghai to New York, consumers around
+the world are giving up their personal vehicles
+in favor of shared mobility. According to a
+2016 McKinsey report, new business models
+based on shared mobility could lead to an additional USD 1.5 trillion in market value by 2030.
+This is not just good news for investors in shared
+mobility. Shared mobility could also bring
+significant environmental gains. By reducing
+the amount of time a vehicle sits idle in
+parking, car sharing promises to significantly
+reduce the total number of new cars purchased – thus curbing environmental challenges
+associated with the production and disposal
+of vehicles. In addition, mobility sharing can serve
+as a supplement to public transportation,
+allowing commuters to fill gaps in the public
+transportation network where needed.
+Micromobility in particular could increase access
+to public transportation, reduce the number
+of cars on the road and lower the environmental
+footprint of personal commuting. The term
+refers to a diverse set of shared modes of transportation provided by very light vehicles such
+as electric scooters, skateboards, or bicycles.
+According to analysis by Wired Magazine,
+one-kilowatt hour of energy could get a
+gasoline-powered car to travel 0.8 miles,
+an electric car 4.1 miles and an electric scooter
+82.8 miles. For the price of a single Tesla
+Model 3 (USD 53,000), a city could purchase
+more than 100 high quality electric scooters –
+making it a more affordable option for some
+fast growing mega-cities in emerging markets.
+ȷ Infrastructure
+Finally, the transition toward sustainable mobility
+will require significant investments in infrastructure. If all cars were to become electric,
+demand for electricity would rise by an
+estimated 20% to 30%. Unless this new energy
+supply is renewable, EVs could increase,
+not reduce, traffic-related greenhouse gas
+emissions.
+Similarly, none of the personal mobility
+solutions mentioned in this paper can replace
+the need for better public transportation.
+While innovations like EVs and shared mobility
+can ease some of the burden, public transportation, particularly if it is electrically powered,
+remains the most sustainable method of
+transportation in urban and peri-urban areas. 
+32 The responsible consumer – Credit Suisse 33
+4,000 tons
+Source see references on page 42
+Household & personal products
+For decades, the household and personal care
+products industries have experienced relatively
+undisrupted growth. The mantras that bacteria is
+bad and that beauty is achievable through a
+myriad of products has been one of marketing’s
+great success stories. The average US household now spends circa USD 600 – 800 annually
+on household cleaning products.
+The irony is that in our quest to get clean, our
+environment has become ever dirtier. The
+chemicals used in household cleaning and personal
+care products leech into waterways, contaminate the air with micro-particles, and are toxic
+to biodiversity and wildlife, potentially entering
+the food chain. One recent study found that prolonged exposure to cleaning sprays had a
+commensurate impact on lung health as smoking
+a packet of cigarettes every day.
+Natural & organic beauty
+Cruelty-free /vegan
+Green cleaning
+Chapter 3: The opportunity
+Expected cosmetics market growth:
+6%
+annually
+(2019–2023)
+Out of 2,000
+cleaning products
+Examples of controversial ingredients
+in personal care products:
+contain ingredients known to irritate the lungs.
+53%
+ Aluminum
+ Coal tar
+ Formaldehydereleasing preservatives
+Natural cosmetics market:
+Expected growth (in USD)
+Green cleaning products market:
+Expected growth (in USD)
+US vegan population:
+2019
+36 billion
+2017
+17.9 billion
+2027
+54 billion
+2024
+27.8 billion
+
+of sunscreen is washed into
+the oceans each year.*
+ 1%
+6%
+2014 2017
+
+*Linked to serious environmental issues like green algal
+blooms, birth defects in wildlife, and coral bleaching. 
+34 The responsible consumer – Credit Suisse 35
+Interest in sustainable consumption is on the rise. Is it a
+passing fad or here to stay?
+Today, the global economy faces
+challenges that urgently require
+sustainable solutions. Pressure
+points are everywhere, be it
+excessive food waste and plastic
+use or rising greenhouse gas
+emissions. These issues are pushing
+regulators, businesses, and consumers to change how we behave.
+These three actors are deeply
+interconnected.
+Developments in one area often
+support or create new initiatives in
+another, and are empowering
+change across sectors and value
+chains. This is not a fad. It is a
+structural shift that we believe will
+fuel an increasingly rapid transition
+to a more sustainable system.
+Do you see this as a threat or an
+opportunity for business?
+Transition on this scale naturally
+creates a risk of disruption for companies that are unwilling or unable
+to change. However, the transition
+will generate large-scale opportunities and profitable growth for
+companies that genuinely embed
+sustainability into their DNA
+and focus on challenges that are
+particularly material to their sector.
+If we look at the food industry, for
+example, projections show that
+a USD 250 billion opportunity exists
+within precision farming, including
+real-time crop monitoring, on-demand
+delivery of irrigation and nutrients,
+automated vehicle steering, and
+custom seeding to improve yields.
+Supply chain optimization is an
+obvious and essential first goal and
+improving expiration dates,
+water usage, and food distribution
+will create a significant investment needs that we are already
+highlighting to investors.
+Do you believe that financial
+institutions have a role to play in
+driving sustainability forward?
+We believe sustainability will be the
+most significant driver of returns and
+should thus be central to any
+investment decision today. As the key
+drivers of change continue to
+gather pace, sustainable investment
+opportunities offer the potential
+for above-average growth and returns. At Lombard Odier, we
+believe it is essential to differentiate
+between the winners and losers in
+this transition to a more sustainable
+economy. Winners will be companies with solid financials, healthy
+business practices, and a business
+model designed to thrive over
+the long-term.
+Within sustainable consumption,
+we see four key investable themes:
+Sustainable Food, Sustainable
+Supply Chains, Sustainable Lifestyle,
+and Sustainable Urban Systems.
+Importantly, we believe that the transition to a more sustainable consumer economy is a trans-sectoral
+challenge that will create opportunities beyond traditional consumer
+sectors.
+Financial institutions, including
+Lombard Odier and Credit Suisse,
+are also agents for change. As
+more investors recognize the underlying financial risks associated
+with sustainability-related challenges,
+as well as the scale of opportunity
+presented by the transition to a
+sustainable economic model, they
+are increasingly holding companies
+and their boards to account.
+Investing in “The responsible consumer” theme
+Interview with Lombard Odier
+Transition on this scale naturally creates
+a risk of disruption for companies that are
+unwilling or unable to change.
+All that glitters is not gold (mica)
+Mica, which refers to a group of 37 crystalline
+minerals, has long been the primary ingredient for making things shiny. However, there is
+a much more sinister side to this glittery
+substance. It is estimated that 25% of the world’s
+production of mica is sourced from illegal
+mines, many of which rely on child labor under
+unsafe and often exploitative conditions.
+The Responsible Mica Initiative was established
+with the aim to implement fair practices, increase traceability along supply chains, empower
+local communities, and build legal and livable
+conditions for those affected. Several large beauty
+brands have become members of the
+initiative, striving to achieve a 100% sustainable
+mica supply chain by 2022.
+36 The responsible consumer – Credit Suisse 37
+24%
+45%
+Responsible tourism
+Awareness has almost doubled in recent years
+2018
+2014
+The last few decades have been pivotal in
+improving access and mobility for travelers. The
+increase in flight destinations coupled with a
+reduction in average flight prices has resulted in
+people getting quick and affordable access to
+the entire globe. 2018 marked the ninth consecutive year of continued growth in tourism.
+While tourism comes with many potential benefits
+to countries (economic boost, infrastructure
+development, and employment growth), it also
+poses considerable environmental and social
+challenges.
+Over-tourism can have devastating effects on the
+environment. According to the United Nations,
+tourism is the fourth largest polluter in Europe and
+accounts for approximately 8% of global carbon
+emissions. Other environmental consequences
+include air pollution, deforestation, erosion, and
+damage to coral reefs, to name just a few.
+The detrimental repercussions of mass tourism are
+not just limited to its environmental impact,
+however. Low wages and seasonal contracts in the
+industry mean that local communities may not
+receive a fair share of the dollar visitors spend. In
+some cases, tourism may also be associated
+with human rights violations, such as human
+trafficking, forced labor, or increased criminality.
+Thankfully, new trends such as sustainable tourism
+are gaining momentum from visitors who wish
+to travel in a more responsible way. In April 2019,
+Booking.com surveyed more than 18,000
+users and found that awareness and interest in
+responsible tourism has almost doubled in
+recent years. In 2014, only 24% of respondents
+considered sustainability an important aspect
+of their travel. By 2018, that number had risen to
+45%. Consumers are now more mindful of the
+impact that their actions can have on the planet
+and its people.
+Despite its growing popularity, however, sustainable
+tourism still faces many challenges that could
+prevent it from becoming mainstream. Tourists
+are dependent on transportation. By default,
+this means that tourism is only ever as sustainable
+as the planes, trains, cars, and cruises used
+to transport tourists to their holiday destinations
+(see page 28). Likewise, studies have shown
+that just 4% of the travel industry offer responsible
+products and/or services. With nearly half of
+travelers expressing an interest in sustainable
+tourism, this represents a clear market gap.
+The good news is that changes in the supply side
+of tourism are taking place and organizations
+have started to work on providing more transparency to customers. For example, the hospitality
+industry is also stepping up, with an increasing
+number of hotel chains announcing their goal to
+reduce food waste by 50% by 2025 while others
+have decided to remove miniature amenities in
+an effort to combat plastic waste.
+Sustainable tourism is a term that can no longer
+be ignored. The devastating impact of overtourism has confirmed that consumers, governments and companies need to shift toward
+sustainable practices.
+Sustainable tourism
+Chapter 3: The opportunity
+38 The responsible consumer – Credit Suisse 39
+Conclusion
+At the time, Ehrlich’s predictions seemed reasonable enough. The human population was
+growing exponentially; resources were not.
+Yet here we are, half a century later. The world
+population has continued to grow; hunger has
+not. In fact, the share of the world’s population
+living in absolute poverty has fallen by more than
+50%. Far from the doomsday apocalypse that
+Ehrlich foreshadowed, we are now witnessing an
+“unprecedented era of global prosperity.”
+So what has happened in the world since 1968 to
+render Ehrlich’s predictions so “comically bad,”
+in the words of one of his harsher critics? Quite
+simply, humanity managed to discover more and
+more ingenious ways of evading Ehrlich’s ticking
+population bomb. When Ehrlich predicted that
+food supplies would soon run out, the world discovered new ways to farm (increasing yields of
+some crops by as much as 100%). When Ehrlich
+predicted that economically recoverable reserves
+of petroleum stood stagnant, the world invented
+new methods of finding and recovering petroleum from untapped reserves (not to mention new
+sources of energy such as solar and geothermal).
+And when Ehrlich predicted that water scarcity
+would soon lead to a decrease in agricultural
+yields, the world invented new strands of waterefficient crops.
+Yet the basic premise of Ehrlich’s prediction
+still holds true: if not managed responsibly, the
+Earth’s resources will eventually be depleted.
+Already, we are pushing the limits of what nature
+can reasonably sustain.
+Decoupling refers to a theoretical future in which
+economic growth is maintained without the
+corresponding increase in environmental pressure.
+If we are to continue to prosper (and evade
+Ehrlich’s doomsday apocalypse), a rapid decoupling
+of consumption from the environmental depletion
+it has been associated with will be needed. The
+good news is: the world is once again rising to the
+challenge. From slow fashion to regenerative
+agriculture, the future of consumption is going to
+be sustainable.
+Investors are important stakeholders in this
+transition. By providing growth and seed capital
+for sustainable innovation, they can directly
+finance the transition to a more sustainable
+economy. Likewise, by purchasing stocks
+in companies that are at the forefront of the
+transition, investors send an important signal
+to the market that sustainable production and consumption matter. Finally, investors who use
+their voice as shareholders play an important role
+in moving companies in a more sustainable
+direction.
+This is not only good for the world. It is also
+good investing. From sustainable fashion to zero
+waste electronics, decoupling could unlock
+USD 4.5 trillion in potential opportunities per
+annum. With consumers expressing greater
+demand for sustainable products than ever before
+and regulators doubling down on transgressors,
+investors would do well to take note.
+In his 1968 best seller, The Population Bomb, Stanford
+biologist Paul R. Ehrlich predicted that overpopulation
+would soon cause a “doomsday apocalypse.” Within the
+decade, Ehrlich predicted, resource shortages would result
+in hundreds of millions of people starving worldwide.
+By 1985, crucial materials would near depletion, pushing
+prices out of reach. “Starvation among people would be
+accompanied by starvation of industries for the materials
+they require.” 
+40 The responsible consumer – Credit Suisse 41
+Imprint
+Authors
+Nicole Neghaiwi
+Alexandra Stettler
+Vivienne E. Yang
+Contributors
+Marisa Drew
+Dana Barsky
+Aurelie Gupta
+Steven Bates
+Thomas Erdmann
+Lombard Odier
+Editorial support
+Christa Jenni
+Catherine McLean Trachsler
+Project management
+Camilla Damm Leuzinger
+Claudia Biri
+Editorial deadline
+13 September 2019
+Design
+LINE Communications AG
+Important information
+This material has been prepared by CREDIT SUISSE GROUP AG and/or its affiliates (“Credit Suisse”).
+It is provided for informational and illustrative purposes only, does not constitute an advertisement, appraisal, investment research, research
+recommendations, investment recommendations or information recommending or suggesting an investment strategy, and it does not contain
+financial analysis. Moreover it does not constitute an invitation or an offer to the public or on a private basis to subscribe for or purchase products
+or services. Benchmarks, to the extent mentioned, are used solely for purposes of comparison. The information contained in this document has
+been provided as a general commentary only and does not constitute any form of personal recommendation, investment advice, legal, tax,
+accounting or other advice or recommendation or any other financial service. It does not take into account the investment objectives, financial
+situation or needs, or knowledge and experience of any persons. The information provided is not intended to constitute any kind of basis on which
+to make an investment, divestment or retention decision. Credit Suisse recommends that any person potentially interested in the elements
+described in this document shall seek to obtain relevant information and advice (including but not limited to risks) prior to taking any investment
+decision.
+The information contained herein was provided as at the date of writing, and may no longer be up to date on the date on which the reader may
+receive or access the information. It may change at any time without notice and with no obligation to update.
+To the extent that this material contains statements about future performance, such statements are forward looking and subject to a number of
+risks and uncertainties. It should be noted that historical returns, past performance and financial market scenarios are no reliable indicator of
+future performance. Significant losses are always possible.
+This material is not directed to, or intended for distribution to or use by, any person or entity who is a citizen or resident of, or is located in, any
+jurisdiction where such distribution, publication, availability or use would be contrary to applicable law or regulation, or which would subject Credit
+Suisse to any registration or licensing requirement within such jurisdiction.
+The recipient is informed that a possible business connection may exist between a legal entity referenced in the present document and an entity
+part of Credit Suisse and that it may not be excluded that potential conflict of interests may result from such connection.
+This document has been prepared from sources Credit Suisse believes to be reliable but does not guarantee its accuracy or completeness.
+Credit Suisse may be providing, or have provided within the previous 12 months, significant advice or investment services in relation to any
+company or issuer mentioned.
+This document may provide the addresses of, or contain hyperlinks to, websites. Credit Suisse has not reviewed the linked site and takes no
+responsibility for the content contained therein. Such address or hyperlink (including addresses or hyperlinks to Credit Suisse’s own website
+material) is provided solely for your convenience and information and the content of the linked site does not in any way form part of this
+document. Accessing such website or following such link through this document or Credit Suisse’s website shall be at your own risk.
+This document is intended only for the person to whom it is issued by Credit Suisse. It may not be reproduced either in whole, or in part, without
+Credit Suisse’s prior written permission.
+If distributed by Credit Suisse Securities (India) Private Limited India: This report is distributed by Credit Suisse Securities (India) Private Limited
+(CIN no. U67120MH1996PTC104392) regulated by the Securities and Exchange Board of India as Portfolio Manager (registration no.
+INP000002478), Research Analyst (registration no. INH 000001030), and as Stock Broker (registration no. INZ000248233), having registered
+address at 9th Floor, Ceejay House, Dr.A.B. Road, Worli, Mumbai – 18, India, T- +91-22 6777 3777
+If distributed by Credit Suisse Financial Services (Israel) Ltd. in Israel: This document is distributed by Credit Suisse Financial Services
+(Israel) Ltd. Credit Suisse AG, including the services offered in Israel, is not supervised by the Supervisor of Banks at the Bank of Israel, but by
+the competent banking supervision authority in Switzerland. Credit Suisse Financial Services (Israel) Ltd. is a licensed investment marketer in
+Israel and thus, its investment marketing activities are supervised by the Israel Securities Authority.
+If distributed by Credit Suisse Securities (Japan) Limited (“CSJL”) in Japan: In Japan, this material is distributed by Credit Suisse
+Securities (Japan) Limited (“CSJL”), a registered Financial Instruments Firm ( Director-General of Kanto Local Finance Bureau (Kinsho) No. 66).
+CSJL is a member of Japan Securities Dealers Association, Financial Futures Association of Japan, Japan Investment Advisers Association and
+Type II Financial Instruments Firms Association.
+South Africa: The legal entities Credit Suisse AG (FSP number 9788) and Credit Suisse UK (FSP number 48779) are registered as financial
+services providers with the Financial Sector Conduct Authority in South Africa
+U.S.A.: This material is issued and distributed in the U.S. by CSSU, a member of NYSE, FINRA, SIPC and the NFA, and CSSU accepts
+responsibility for its contents. Clients should contact analysts and execute transactions through a Credit Suisse subsidiary or affiliate in their home
+jurisdiction unless governing law permits otherwise.
+Credit Suisse AG is incorporated in Switzerland with limited liability.
+Hong Kong and Singapore: If you have any queries/objections relating to the receipt of marketing materials from us, please contact our Data
+Protection Officer at dataprotectionofficer.pb@credit-suisse.com (for Credit Suisse AG, Hong Kong Branch) or PDPO.SGD@credit-suisse.com
+(for Credit Suisse AG, Singapore Branch).
+Copyright © 2019. CREDIT SUISSE GROUP AG and/or its affiliates. All rights reserved.
+42
+References
+ABTA (2019). Travel Trends Report.
+Accenture. Lacy, Peter & Rutqvist,
+Jakob (2015). Waste to Wealth:
+The Circular Economy Advantage.
+1st ed. English: Palgrave Macmillan.
+BloombergNEF (2019). A Behind the
+Scenes Take on Lithium-ion Battery
+Prices.
+Boon Kauffman, et al. (2017). The
+jumbo carbon footprint of a shrimp:
+carbon losses from mangrove
+deforestation. Frontiers in Ecology and
+Environment.
+BloombergNEF, McKinsey & Company
+(2016). An integrated Perspective on
+the Future of Mobility.
+Boston Consulting Group (2018).
+Tackling the 1.6 Billion-Ton Food Loss
+and Waste Crisis.
+Breitburg et al. (2018). Declining
+oxygen in the global ocean and coastal
+waters. Science. Vol 359.
+Center for Responsible Travel (2018).
+The Case for Responsible Travel.
+Changing Markets Foundation (2018).
+Dirty Fashion Revisited: Spotlight on a
+polluting Viscose Giant.
+CIRAIG (2019). Comparaison des
+Filières de Production d’Électricité et
+des bouquets d’Énergie ’Électrique.
+Clinten et al. (2018). A Global
+Geospatial Ecosystem Services Estimate
+of Urban Agriculture. Earth’s Future.
+CoolProducts, Right to Repair, European
+Environmental Bureau (2019). Cool
+products don’t cost the earth.
+Crawford, Amy (2018).
+Big Data Suggests Big Potential for
+Urban Farming. Wired Magazine.
+Credit Suisse (2019).
+The Age of Plastics at a tipping point.
+Davies RWD, et al. (2009). Defining
+and estimating global marine fisheries
+bycatch. Marine Policy.
+Danovaro, et al. (2008).
+Sunscreens cause coal bleaching by
+promoting viral infections. Environmental Health Perspectives.
+Dimson et al. (2012). Active
+Ownership. Review of Financial Studies.
+Ecovia Intelligence (2019).
+Global Organic Food & Drink Market
+Trends and Outlook.
+Ellen MacArthur Foundation (2017).
+ A New Plastics Economy.
+Ellen MacArthur Foundation and
+McKinsey & Co (2013).
+Towards the Circular Economy.
+Ellen MacArthur Foundation (2017).
+A new textiles economy: Redesigning
+fashion’s future.
+Envirornmental Working Group (2019)
+EWG’s Guide to Healthy Cleaning.
+Epstein, David (2019). The Peculiar
+Blindness of Experts. The Atlantic.
+EU Commission Directorate General for
+Trade (2019). The European Union
+Market for Sustainable Products: The
+Retail Perspective on Sourcing Policies
+and Consumer Demand.
+European Climate Foundation, Business
+for Social Responsibility, University of
+Cambridge Institute for Sustainability
+Leadership, Cambridge Judge Business
+School (2014). Climate Change:
+Implications for Transit.
+Food and Agriculture Organization of
+the United Nations (2016). The State
+of World Fisheries and Aquaculture.
+FutureCast, Barkley (2017).
+The Snack Hack.
+Future Markets Insight (2019). An
+Incisive, In-depth Analysis on the
+Natural Cosmetics Market.
+Global Impact Investing Network
+(2018). Annual Impact Investing Survey.
+Global Fashion Agenda and the Boston
+Consulting Group. (2017).
+Pulse of the Fashion Industry 2017.
+Global Sustainable Investment Alliance
+(2018). 2018 Global Sustainable
+Investment Review.
+Global Data (2017).
+Top Trends in Prepared Foods 2017.
+Henderson, Richard (2019).
+Fund managers turn their focus to
+millennials. Financial Times.
+Human Rights Watch (2018). Hidden
+chains: Rights abuses and forced labor
+in Thailand’s fishing industry.
+Hyunju et al. (2019). Plant-Based Diets
+Are Associated With a Lower Risk of
+Incident Cardiovascular Disease,
+Cardiovascular Disease Mortality, and
+All-Cause Mortality in a General Population of Middle-Aged Adults. Journal of
+the American Heart Association.
+International Energy Agency (2019).
+Global EV Outlook 2019.
+International Food Information Council
+Foundation (2019). Food and Health
+Survey.
+IPBES (2019). Global Assessment on
+Biodiversity and Ecosystem Services.
+ITU (2017). Global E-Waste Monitor
+2017.
+Ivanova et al. (2015). Environmental
+Impact Assessment of Household
+Consumption. Journal of Industrial
+Ecology.
+Jones, Nicola (2018). How to stop data
+centres from gobbling up the world’s
+electricity. Nature.
+Kolbert, Elizabeth (2009). Hosed.
+New Yorker.
+Lanzen et al (2018). The carbon
+footprint of global tourism.
+Nature Climate Change.
+Larmer, Brooke (2018). E-Waste
+Offers an Economic Opportunity as Well
+as Toxicity. New York Times.
+Markets & Markets (2017). Smart
+Agriculture Market by Agriculture Type.
+McKinsey & Company (2013).
+Bringing energy efficiency to the fab.
+McKinsey & Company, Business of
+Fashion (2019). The State of Fashion
+2019.
+Mintel (2018). UK Meat-Free Foods
+Market Report.
+Morgan, A Ross, M., Siegle, L.,
+McCartney, S., Firth, L., Shiva, V., &
+Blickenstaff, D. (2015). The true cost.
+New York University. Stern Center for
+Sustainable Business (2019).
+Sustainable Share Index: Research on
+IRI Purchasing Data (2013-2018)
+Nielsen (2015). Nielson Global Survey
+of Corporate Social Responsibility and
+Sustainability.
+Nielsen (2018). What’s sustainability
+got to do with it? Linking sustainability
+claims to sales.
+Oxfam Australia (2019). Made in
+Poverty: The True Price of Fashion.
+Pollan, Michael (2006). What’s Eating
+America. The Smithsonian.
+Poore, J & Nemecek, T. (2019).
+Reducing food’s environmental impacts
+through producers and consumers.
+Science.
+Research and Markets (Q1 2019
+Update). Global Household Green
+Cleaning Products Market.
+Research and Markets (2019). The
+Global Vegan Cosmetics Market
+2019-2023.
+Rodale Institute (2015). Regenerative
+Organic Agriculture and Climate
+Change.
+Shelton et al. (2014). Tipping the
+balance of autism risk: potential
+mechanisms linking pesticides and
+autism. Environmental Health
+Perspectives.
+Sumaila et al. (2017). Investments to
+reverse biodiversity loss are economically beneficial. Under a Creative
+Commons License.
+Svanes et al. (2018) Cleaning at home
+and at work in relation to lung function
+decline and airway obstruction.
+American Journal of Respiratory and
+Critical Care Medicine.
+ThredUp and Global Data (2019).
+ThredUp 2019 Resale Report.
+Tillemann, Levi & Lassor Feasley
+(2018). Let’s Count the Ways
+E-Scooters Could Save the City. Wired
+Magazine.
+UNESCO (2019). Facts and Figures on
+Marine Pollution.
+UNICEF. Global Inequality:
+Beyond the Bottom Billion.
+United Nations (2019). The United
+Nations World Water Development
+Report. Leaving No One Behind.
+United Nations DESA/Population
+Division (2019). World Population
+Prospects.
+United Nations Environment Programme
+(2019). Environmental Rule of Law.
+United Nations Environment
+Programme (2017). International
+Resource Panel Report.
+United Nations Food & Agriculture
+Organization, World Bank (2001).
+Farming Systems and Poverty:
+Improving Farmers’ Livelihoods in a
+Changing World
+United Nations Food & Agriculture
+Organization (2014). Food Wastage
+Footprint: Full-cost Accounting.
+University of Sheffield, Grantham
+Centre for Sustainable Futures (2015).
+A sustainable model for intensive
+agriculture.
+White & Case (2018). Climate change
+litigation: A new class of action.
+WEF (2019). A New Circular Vision for
+Electronics: Time for a Global Reboot.
+WRI (2017). Elephant in the
+Boardroom: Why Unchecked
+Consumption is Not an Option in
+Tomorrow’s Markets.
+WRI (2018). Creating a Sustainable
+Food Future.
+World Wildlife Fund (2014).
+How your t-shirt can make a difference.
+World Wildlife Fund (2019).
+No plastic in nature: Assessing plastic
+investigation from nature to people.
+World Wildlife Fund (2019). Solving
+Plastic Pollution Through Accountability.
+WRAP (2017). Valuing our Clothes:
+The Cost of UK Fashion.
+Zion Market Research (2018).
+Global Consumer Electronics Market.
+44
+credit-suisse.com
+© 2019, CREDIT SUISSE
