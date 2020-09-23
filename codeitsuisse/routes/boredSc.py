@@ -9,7 +9,7 @@ from codeitsuisse import app;
 
 logger = logging.getLogger(__name__)
 alphabet = string.ascii_lowercase # "abcdefghijklmnopqrstuvwxyz"
-wordSet = set(line.strip() for line in open('./codeitsuisse/routes/en.txt'))
+wordSet = set(line.strip() for line in open('./codeitsuisse/routes/custom.txt'))
 
 @app.route('/bored-scribe', methods=['POST'])
 def evaluateBoredScribe():
