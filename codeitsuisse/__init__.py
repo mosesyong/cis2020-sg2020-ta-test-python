@@ -5,5 +5,6 @@ import codeitsuisse.routes.if2
 import codeitsuisse.routes.boredSc
 import codeitsuisse.routes.secretMessage
 import codeitsuisse.routes.portfolio
+import codeitsuisse.routes.yy
 
 
